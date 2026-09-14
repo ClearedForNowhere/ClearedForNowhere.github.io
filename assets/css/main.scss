@@ -30,7 +30,7 @@ $rss-color: #ff6600;
 
 /* Lightbox */
 
-.lightbox img {
+.lightbox{
   position: fixed;
   top: 0;
   left: 0;
@@ -58,4 +58,5 @@ $rss-color: #ff6600;
   transform: translate(-50%, -50%);
   object-fit: contain;
   margin: 0;
+  cursor: pointer;
 }
