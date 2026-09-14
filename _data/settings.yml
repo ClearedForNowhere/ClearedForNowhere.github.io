@@ -9,8 +9,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'FLIGHT SIMULATOR',  url: 'flightsimulator'}
 - {name: 'PHOTOGRAPHY', url: 'photography'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'ABOUT',              url: 'about'}
+- {name: 'CONTACT',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
