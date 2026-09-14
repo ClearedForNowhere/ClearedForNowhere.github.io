@@ -13,7 +13,7 @@ Ma prochaine destination sera l'un des points les plus à l'ouest du continent n
 Cette destination se veut comme l’écho de ce projet - Cleared For Nowhere.
 Pour l’atteindre, je devrai parcourir plus de 3 000 nautiques vers le nord-ouest, pour environ 20 heures de vol MINIMUM, en partant de l’aéroport d’Oshawa, quelques nautiques à l’est de Toronto. 
 
-![Destination Point Hope](1.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/1.jpg)
 
 Je veux que ce projet soit une bonne occasion d'en apprendre davantage sur l'histoire du Canada et de l'Alaska.
 Chaque étape que je volerai, chaque terrain sur lequel j'atterrirai devra être réfléchi.
