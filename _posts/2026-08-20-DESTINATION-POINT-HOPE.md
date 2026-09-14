@@ -3,6 +3,7 @@ layout: post
 title: "DESTINATION POINT HOPE"
 author: "Pierre IOZZOLI"
 categories: flightsimulator
+permalink: /destination-point-hope
 tags: [destination-point-hope]
 image: DESTINATION_POINT_HOPE_COVER.jpg
 ---
