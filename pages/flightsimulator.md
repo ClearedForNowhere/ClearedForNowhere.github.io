@@ -15,7 +15,9 @@ permalink: /flightsimulator
     </span>
 
     {% if post.cover %}
-      <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
+<a href="{{ site.github.url }}{{ post.url }}" style="display: block;">
+  <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
+</a>
     {% endif %}
   </article>
 {% endfor %}
