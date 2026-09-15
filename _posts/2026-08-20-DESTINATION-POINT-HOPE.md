@@ -4,6 +4,7 @@ title: "DESTINATION POINT HOPE"
 author: "Pierre IOZZOLI"
 categories: flightsimulator
 tags: [destination-point-hope]
+cover: DESTINATION_POINT_HOPE_COVER.jpg
 image: DESTINATION_POINT_HOPE_COVER.jpg
 ---
 Et c'est reparti !
