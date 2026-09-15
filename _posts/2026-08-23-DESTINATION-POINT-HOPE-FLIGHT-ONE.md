@@ -15,6 +15,7 @@ Il y en aura 17 autres comme celle-ci.
 Je prévois de rejoindre l’aérodrome de Sault-Sainte-Marie, toujours en Ontario. Le terrain se situe à quelques nautiques au nord-ouest du lac Huron.
 Cette navigation sera longue de 289 NM, ou 1h50 de vol, et me fera passer principalement au bord central du Lac Huron, sur la bande de terre qui remonte vers le nord. Cela augure de très beaux paysages survolés !
 
+![Destination Point Hope]({{ site.github.url }}/assets/img/1.jpg)
 
 Côté Fuel & Payload, celui-ci sera sensiblement le même à chaque navigation : 
 
@@ -41,17 +42,22 @@ Les conditions météo au départ ne sont finalement pas trop mal, avec une couc
 
 Roulage, décollage, RAS à ce niveau-là, je suis content d’être en l’air, cela acte enfin le départ de ce long voyage qui s’annonce riche en paysage survolé.
 
+![Destination Point Hope]({{ site.github.url }}/assets/img/1.jpg)
 
 Au fil du vol, j’ai eu droit à quelques petites éclaircies lumineuse, mais très vite les conditions météorologiques se dégrade, comme prévu lors du briefing plus tôt dans la journée.
 
+![Destination Point Hope]({{ site.github.url }}/assets/img/1.jpg)
 
+![Destination Point Hope]({{ site.github.url }}/assets/img/1.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/1.jpg)
 
 Arrivant du 123°, j’ai intégré directement le circuit d’aérodrome en longue finale pour la piste 30. Côté vent, le METAR à l’arrivé parle de lui-même : 31020G29KT. Mais fort heureusement celui-ci est dans l’axe de piste. C’est donc avec ces conditions venteuses en tête que j’effectue ma finale et atterrissage en prenant une bonne marge sur ma vitesse pour éviter tout risque de décrochage proche du sol.
 
 J’ai connu meilleur atterrissage, mais ce n’était pas trop mal pour ces conditions !
 Je prends le temps de bien arrimer le Comanche au sol car ils annoncent encore beaucoup de vent ces prochains jours.
 
-
+![Destination Point Hope]({{ site.github.url }}/assets/img/1.jpg)
 
 La 2e branche de ce voyage devrait m’emmener jusqu’à Thunder Bay, toujours en Ontario. Celui-ci se trouve de l’autre côté, à l’ouest du Lake Superior, navigation facile, et qui se fera principalement par cheminement, en longeant la côte nord du Lac.
 
