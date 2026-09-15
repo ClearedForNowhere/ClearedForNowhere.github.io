@@ -15,7 +15,7 @@ Il y en aura 17 autres comme celle-ci.
 Je prévois de rejoindre l’aérodrome de Sault-Sainte-Marie, toujours en Ontario. Le terrain se situe à quelques nautiques au nord-ouest du lac Huron.
 Cette navigation sera longue de 289 NM, ou 1h50 de vol, et me fera passer principalement au bord central du Lac Huron, sur la bande de terre qui remonte vers le nord. Cela augure de très beaux paysages survolés !
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT01_1.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT01_1.png)
 
 Côté Fuel & Payload, celui-ci sera sensiblement le même à chaque navigation : 
 
