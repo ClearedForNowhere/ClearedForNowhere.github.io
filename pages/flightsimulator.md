@@ -4,4 +4,14 @@ title: FLIGHT SIMULATOR
 permalink: /flightsimulator
 ---
 
-This is where I will share my flight stories.
+{% for post in site.categories.flightsimulator %}
+  <article>
+    <h2>
+      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
+
+    {% if post.cover %}
+      <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
+    {% endif %}
+  </article>
+{% endfor %}
