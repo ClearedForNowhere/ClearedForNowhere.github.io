@@ -7,7 +7,7 @@ tags: [destination-point-hope]
 image: DPH_FLIGHT01_COVER.jpg
 ---
 
-LA PREPARATION
+## LA PREPARATION
 
 Et c’est reparti, je viens de terminer la préparation de cette première étape de ce long voyage qui m’emmènera jusqu’à Point Hope en Alaska.
 Il y en aura 17 autres comme celle-ci.
@@ -31,12 +31,12 @@ Le centrage est bon et le restera si je reste dans cette configuration, ce qui s
 Mixturé et paramètres moteur affichés, le Comanche consomme 15 Gal/h, ce qui me donne une autonomie de 4 heures.
 
 
-LE JOUR DU VOL
+## LE JOUR DU VOL
 
 Un rapide bilan météo dans la journée n’est pas très rassurant, même si les conditions sont établies pour du VFR, elles ne sont pas optimales. Beaucoup d’averse de pluie et des rafales de vent à l’arrivée.
 J’acte quand même le vol et prévois quelques terrains de déroutement au cas où l’atterrissage ne pourrait pas se faire.
 
-LE VOL
+## LE VOL
 
 Les conditions météo au départ ne sont finalement pas trop mal, avec une couche nuageuse overcast au-delà du FL100. Le vent est soutenu mais constant et dans les limites démontrées de vent de travers pour le PA24.
 
@@ -61,7 +61,7 @@ Je prends le temps de bien arrimer le Comanche au sol car ils annoncent encore b
 
 La 2e branche de ce voyage devrait m’emmener jusqu’à Thunder Bay, toujours en Ontario. Celui-ci se trouve de l’autre côté, à l’ouest du Lake Superior, navigation facile, et qui se fera principalement par cheminement, en longeant la côte nord du Lac.
 
-See you next flight
 
+See you next flight,
 ClearedForNowhere
 
