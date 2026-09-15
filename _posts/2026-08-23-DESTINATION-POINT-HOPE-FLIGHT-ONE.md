@@ -63,5 +63,5 @@ La 2e branche de ce voyage devrait m’emmener jusqu’à Thunder Bay, toujours 
 
 
 See you next flight,
-ClearedForNowhere
+ClearedForNowhere.
 
