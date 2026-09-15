@@ -45,6 +45,11 @@
     display: block;
     max-width: 95vw;
   }
+  .post-content article img {
+    max-width: 95vw;
+    width: auto;
+    height: auto;
+  }
 }
 .post-share {
   padding-bottom: 1rem;
