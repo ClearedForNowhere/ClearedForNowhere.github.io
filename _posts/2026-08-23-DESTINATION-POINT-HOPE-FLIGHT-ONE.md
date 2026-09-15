@@ -44,7 +44,7 @@ Roulage, décollage, RAS à ce niveau-là, je suis content d’être en l’air,
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT01_2.jpg)
 
-Au fil du vol, j’ai eu droit à quelques petites éclaircies lumineuse, mais très vite les conditions météorologiques se dégrade, comme prévu lors du briefing plus tôt dans la journée.
+Au fil du vol, j’ai eu droit à quelques petites éclaircies lumineuse, mais très vite les conditions météorologiques se sont dégradées, comme prévu lors du briefing plus tôt dans la journée.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT01_3.jpg)
 
