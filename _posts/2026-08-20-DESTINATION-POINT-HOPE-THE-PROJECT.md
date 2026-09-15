@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "DESTINATION POINT HOPE"
+title: "DESTINATION POINT HOPE, THE PROJECT"
 author: "Pierre IOZZOLI"
 categories: flightsimulator
-tags: [destination-point-hope]
+tags: [destination-point-hope-the-project]
 cover: DESTINATION_POINT_HOPE_COVER.jpg
 image: DESTINATION_POINT_HOPE_COVER.jpg
 ---
