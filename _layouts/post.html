@@ -10,9 +10,7 @@ layout: default
     {% include post-date.html %}
   {% endif %}
   {% if page.image %}
-<p>COVER TEST : {{ page.cover }}</p>
-<p>IMAGE TEST : {{ page.image }}</p>
-<p>TEST : {{ page.test }}</p>
+  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
     </div>
