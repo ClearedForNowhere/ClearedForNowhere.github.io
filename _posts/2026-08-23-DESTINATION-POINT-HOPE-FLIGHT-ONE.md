@@ -4,7 +4,8 @@ title: "DESTINATION POINT HOPE, FLIGHT ONE"
 author: "Pierre IOZZOLI"
 categories: flightsimulator
 tags: [destination-point-hope]
-image: DPH_FLIGHT01_COVER.jpg
+cover: DPH_FLIGHT01_COVER.jpg
+image: DPH_FLIGHT01_HEADER.jpg
 ---
 
 ## LA PREPARATION
