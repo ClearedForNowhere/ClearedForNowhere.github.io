@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT
+title: A PROPOS
 permalink: /about
 ---
 
