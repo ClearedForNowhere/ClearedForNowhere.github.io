@@ -1,20 +1,26 @@
 <article>
-  <a href="{{ site.github.url }}{{ post.url }}">
+  <a class="featured-post-link" href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-post" {% if post.cover %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.cover }})"{% endif %}>
-      <h2>
-        <span>{{ post.title }}</span>
-      </h2>
+      <div class="featured-post-info">
 
-      <div class="featured-post-meta">
-        <span>{{ post.date | date: "%B %d, %Y" }}</span>
-        <span>·</span>
-        <span>
-          {% if post.categories contains "flightsimulator" %}
-            FLIGHT SIMULATOR
-          {% else %}
-            {{ post.categories | join: " / " }}
-          {% endif %}
-        </span>
+        <h2>
+          <span>{{ post.title }}</span>
+        </h2>
+
+        <div class="featured-post-meta">
+          <span>{{ post.date | date: "%B %d, %Y" }}</span>
+          <span>·</span>
+          <span>
+            {% if post.categories contains "flightsimulator" %}
+              FLIGHT SIMULATOR
+            {% elsif post.categories contains "photography" %}
+              PHOTOGRAPHY
+            {% else %}
+              {{ post.categories | join: " / " }}
+            {% endif %}
+          </span>
+        </div>
+
       </div>
     </div>
   </a>
