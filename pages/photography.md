@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PHOTOGRAPHIE
+title: PHOTOGRAPHY
 permalink: /photography
 ---
 
