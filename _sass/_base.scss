@@ -46,13 +46,17 @@ body img {
   margin: 5px auto auto auto;
   display: block;
   max-width: 800px;
-}
-@media (max-width: $tablet-width) {
-  body img {
-    max-width: 95vw;
-  }
+  width: auto;
+  height: auto;
 }
 
+@media (max-width: $tablet-width) {
+  body img {
+    max-width: 95vw !important;
+    width: 95vw !important;
+    height: auto !important;
+  }
+}
 p {
   display: block;
   margin-top: 1em;
