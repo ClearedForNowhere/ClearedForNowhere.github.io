@@ -4,7 +4,7 @@ title: "DESTINATION POINT HOPE, THE PROJECT"
 author: "Pierre IOZZOLI"
 categories: flightsimulator
 tags: [destination-point-hope-the-project]
-cover: 
+cover: DPH_THE_PROJECT/HEADER/DESTINATION_POINT_HOPE_HEADER.jpg
 image: DPH_THE_PROJECT/COVER/DESTINATION_POINT_HOPE_COVER.jpg
 published: true
 ---
