@@ -67,3 +67,6 @@ $rss-color: #ff6600;
 .page-content article {
   margin-bottom: 2.5rem;
 }
+.page-content article > a {
+  display: block;
+}
