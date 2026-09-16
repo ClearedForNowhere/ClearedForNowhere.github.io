@@ -4,7 +4,13 @@ title: Home
 ---
 
 {% for post in paginator.posts %}
-  {% include featured-post.html %}
+  {% if forloop.first %}
+    <div class="first-post">
+      {% include featured-post.html %}
+    </div>
+  {% else %}
+    {% include featured-post.html %}
+  {% endif %}
 {% endfor %}
 
 <!-- Pagination links -->
