@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "CLEARED FOR NOWHERE"
 description:	       "Cleared For Nowhere is a personal project with the aim of share my passions and inspirations"
-author:              "Pierre IOZZOLI"
+author:              "ClearedForNowhere"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
