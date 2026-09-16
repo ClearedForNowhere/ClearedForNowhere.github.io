@@ -1,7 +1,21 @@
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
-<div class="featured-post" {% if post.cover %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.cover }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
+    <div class="featured-post" {% if post.cover %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.cover }})"{% endif %}>
+      <h2>
+        <span>{{ post.title }}</span>
+      </h2>
+
+      <div class="featured-post-meta">
+        <span>{{ post.date | date: "%B %d, %Y" }}</span>
+        <span>·</span>
+        <span>
+          {% if post.categories contains "flightsimulator" %}
+            FLIGHT SIMULATOR
+          {% else %}
+            {{ post.categories | join: " / " }}
+          {% endif %}
+        </span>
+      </div>
     </div>
   </a>
 </article>
