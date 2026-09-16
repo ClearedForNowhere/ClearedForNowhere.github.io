@@ -4,8 +4,8 @@ title: "DESTINATION POINT HOPE, THE PROJECT"
 author: "Pierre IOZZOLI"
 categories: flightsimulator
 tags: [destination-point-hope-the-project]
-cover: DESTINATION_POINT_HOPE_COVER.jpg
-image: DESTINATION_POINT_HOPE_COVER.jpg
+cover: 
+image: DPH_THE_PROJECT/COVER/DESTINATION_POINT_HOPE_COVER.jpg
 published: true
 ---
 Et c'est reparti !
@@ -17,7 +17,7 @@ Cette destination se veut comme l’écho de ce projet - Cleared For Nowhere.
 
 Pour l’atteindre, je devrai parcourir plus de 3 000 nautiques vers le nord-ouest, pour environ 20 heures de vol MINIMUM, en partant de l’aéroport d’Oshawa, quelques nautiques à l’est de Toronto. 
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_1.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_THE_PROJECT/CONTENU/1.jpg")
 
 Je veux que ce projet soit une bonne occasion d'en apprendre davantage sur l'histoire du Canada et de l'Alaska.
 
@@ -30,6 +30,10 @@ Qu'est-ce que je ne simulerai pas ? La radio. Je n'ai pas encore les compétence
 En revanche, je vérifierai et utiliserai toutes les fréquences des aérodromes et des espaces aériens que je traverserai ou sur lesquels je me poserai.
 
 Mon choix d’appareil s’est tourné vers le Piper PA24-250 Comanche d’A2A simulation, principalement pour son côté Hardcore Simmer.
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_THE_PROJECT/CONTENU/2.jpg")
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_THE_PROJECT/CONTENU/3.jpg")
 
 Alors, c’est parti, direction Point Hope !
 
