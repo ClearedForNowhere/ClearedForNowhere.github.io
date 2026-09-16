@@ -6,6 +6,7 @@ categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT01_COVER.jpg
 image: DPH_FLIGHT01_HEADER.jpg
+published: true
 ---
 
 ## LA PREPARATION
