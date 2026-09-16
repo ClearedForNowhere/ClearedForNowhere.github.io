@@ -6,6 +6,7 @@ categories: flightsimulator
 tags: [destination-point-hope-the-project]
 cover: DESTINATION_POINT_HOPE_COVER.jpg
 image: DESTINATION_POINT_HOPE_COVER.jpg
+published: true
 ---
 Et c'est reparti !
 Il ne m’a pas fallu longtemps pour trouver un nouveau projet de voyage sur MSFS.
