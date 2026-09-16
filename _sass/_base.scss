@@ -47,6 +47,11 @@ body img {
   display: block;
   max-width: 800px;
 }
+@media (max-width: $tablet-width) {
+  body img {
+    max-width: 95vw;
+  }
+}
 
 p {
   display: block;
