@@ -6,11 +6,24 @@
   background-size: cover;
   position: relative;
 }
-.featured-post h2 {
+.featured-post-info {
   bottom: 0;
-  margin: 0;
+  left: 0;
   padding: 10px;
   position: absolute;
+}
+
+.featured-post-info h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.featured-post-meta {
+  margin-top: 4px;
+  padding-left: 10px;
+  font-size: 14px;
+  font-weight: 400;
+  color: white;
 }
 .featured-post h2 span {
   display: inline-block;
