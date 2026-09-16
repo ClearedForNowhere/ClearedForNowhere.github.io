@@ -42,3 +42,6 @@ Second attempt went even worse, two aircraft were on Runway 07: a King Air was t
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_02/CONTENU/7.jpg)
 
 Next stop : Red Lake, Ontario !
+
+See you next flight,
+Cleared For Nowhere.
