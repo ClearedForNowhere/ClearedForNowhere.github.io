@@ -36,6 +36,11 @@
 .first-home-post {
   padding-top: 20px;
 }
+@media (max-width: $container-width) {
+  .post-content {
+    padding-top: 30px;
+  }
+}
 /*
   Responsiveness with a dropdown menu
 */
