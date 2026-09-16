@@ -52,8 +52,8 @@ body img {
 
 @media (max-width: $tablet-width) {
   body img {
-    max-width: 95vw !important;
-    width: 95vw !important;
+    max-width: calc(95vw - 20px) !important;
+    width: auto !important;
     height: auto !important;
   }
 }
