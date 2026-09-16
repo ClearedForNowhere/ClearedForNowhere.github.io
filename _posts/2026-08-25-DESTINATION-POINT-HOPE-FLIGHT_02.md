@@ -13,7 +13,7 @@ Blue water, blue sky
 
 Tuesday afternoon, I flew the second leg of this journey. This one took me to Thunder Bay, on the other side of Lake Superior following its northern shore.
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_02/CONTENU/1.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_02/CONTENU/1.png)
 
 Weather conditions were pretty good this time, with broken clouds above FL100 and a 10-knot wind from the west all along the route. A quick check in the morning showed a chance of thunderstorms near Thunder Bay around my ETA, with towering cumulus and rain showers. Fortunately, nothing developed during the flight, and the weather at arrival was good.
 
