@@ -60,7 +60,7 @@ Il ne me reste plus qu’à vérifier la météo pour trouver un créneau « vol
 Un check météo dans l’après-midi me confirme que les conditions sont favorables pour le vol de ce soir.
 Pour rappel, je vol toujours aux alentours de 1900 ZULU, ce qui donne 1300 LOCAL pour l’Alberta.
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/6.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/6.png)
 
 Les conditions météos sont bonnes sur l’ensemble du vol. Pour ce qui est du vent, celui-ci sera de l’ouest pour 10-15 knots en moyenne sur chaque branche. La base des nuages sera elle aussi compatible de mon altitude de croisière avec un plafond mini relevé à 5600 ft sur l’avant dernière branche. Le ciel se dégage à l’arrivée. Pas de précipitation et une visibilité supérieure à 10 km sur la totalité du parcours.
 
@@ -78,7 +78,7 @@ Celui-ci annonce quelques nuages à 3200 ft, mais ceux-ci s’estomperont avant 
 
 Je fais le tour de ma machine, RAS. Le démarrage du moteur se fait dans la foulée. Tout est au vert, celui-ci tourne rond, on peut y aller.
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/7.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/7.png)
 
 La 26 est en service. Depuis l’Apron 1, je roule taxiway H puis J avant de rejoindre le point d’arrêt 26.
 Les essais moteurs sont concluants, je configure le Comanche pour le décollage et fait mon briefing départ. Celui-ci est simple, outre les actions en cas d’avarie ou panne moteur, le départ du terrain se fera en effectuant un léger virage par la gauche au passage des 1000 ft AGL, après avoir rétracter les volets et couper la pompe et les phares d’atterrissage.
