@@ -10,7 +10,4 @@ Passionné d’aviation depuis toujours, je pratique la simulation de vol depuis
 
 À travers ce site, je partage mes différents voyages virtuels, mes expériences de simulation, mais aussi des photographies et d’autres projets inspirés par ma passion pour le monde aéronautique.
 
-Parfois, il y a une destination.
-Parfois, il n’y en a pas.
-
-Cleared for nowhere, literally!
+Cleared For Nowhere.
