@@ -9,6 +9,8 @@ image: DPH_FLIGHT_02/HEADER/DPH_FLIGHT_02_HEADER.jpg
 published: true
 ---
 
+(post initiialement posté en anglais sur Instagram)
+
 ## LA PREPARATION
 Mardi dernier, j'ai effectué la deuxième étape de ce voyage. Celle-ci m'a emmené à Thunder bay, de l'autre côté du Lake Superior, en suivant sa rive nord.
 

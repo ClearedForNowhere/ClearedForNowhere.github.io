@@ -9,8 +9,8 @@ image: DPH_FLIGHT_03/HEADER/DPH_FLIGHT_03_HEADER.jpg
 published: true
 ---
 
+(post initiialement posté en anglais sur Instagram)
 
-## LE VOL
 Vendredi dernier, j'ai mis le cap sur Red Lake, toujours en Ontario, ma dernière étape avant d'entrer au Manitoba.
 Et une fois encore, ce vol a été incroyable. Les paysages ont considérablement changé depuis le début de ce voyage et, cette fois, j'ai pu avoir l'occasion de survoler des centaines de lacs. Cette partie de l'Ontario est absolument magnifique.
 
