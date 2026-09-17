@@ -1,29 +1,36 @@
+{% assign current_index = 0 %}
+
+{% for mypost in site.posts %}
+  {% if mypost.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign next_index = current_index | plus: 1 %}
+{% assign next_post = site.posts[next_index] %}
+
+{% if next_post %}
 <div class="related">
   <h2>{{ site.data.settings.related_posts }}</h2>
-  {% assign listed_posts_urls = page.url | split: ' ' %}
+
   <ul class="related-posts">
-    {% for tag in page.tags %}
-      {% for mypost in site.tags[tag] limit:2 %}
-        {% if listed_posts_urls contains mypost.url %}
-        {% else %}
-          <li>
-            <h3>
-              <a href="{{ site.github.url }}{{ mypost.url }}">
-                <div class="related-thumbnail">
-                  {% if mypost.image %}
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
-                  {% endif %}
-                </div>
-                <div class="related-title">
-                  {{ mypost.title }}
-                </div>
-                <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
-              </a>
-            </h3>
-          </li>
-          {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
+    <li>
+      <h3>
+        <a href="{{ site.github.url }}{{ next_post.url }}">
+
+          <div class="related-thumbnail">
+            {% if next_post.image %}
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ next_post.image }}">
+            {% endif %}
+          </div>
+
+          <div class="related-title">
+            {{ next_post.title }}
+          </div>
+
+        </a>
+      </h3>
+    </li>
   </ul>
 </div>
+{% endif %}
