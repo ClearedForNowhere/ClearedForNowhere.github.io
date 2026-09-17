@@ -104,6 +104,8 @@ Premier waypoint passé, le coude de la rivière Athabasca. Je poursuis ma navig
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/13.jpg)
 
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/24.gif)
+
 J’ai pris l’habitude d’afficher toujours les mêmes paramètres moteurs en vol, hors condition spécifique : 22 inHG et 2400 RPM.
 Ces paramètres me donnent environ 70% de la puissance, avec une consommation, avion mixturé, d’environ 15 GAL/H. 
 Le terrain est facile à repérer puisqu’il se situe au milieu du Lac Wabasca qui s’assèche au centre donnant l’impression que celui-ci est composé de deux lacs.
