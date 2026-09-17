@@ -78,7 +78,7 @@ Celui-ci annonce quelques nuages à 3200 ft, mais ceux-ci s’estomperont avant 
 
 Je fais le tour de ma machine, RAS. Le démarrage du moteur se fait dans la foulée. Tout est au vert, celui-ci tourne rond, on peut y aller.
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/7.png)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/7.jpg)
 
 La 26 est en service. Depuis l’Apron 1, je roule taxiway H puis J avant de rejoindre le point d’arrêt 26.
 Les essais moteurs sont concluants, je configure le Comanche pour le décollage et fait mon briefing départ. Celui-ci est simple, outre les actions en cas d’avarie ou panne moteur, le départ du terrain se fera en effectuant un léger virage par la gauche au passage des 1000 ft AGL, après avoir rétracter les volets et couper la pompe et les phares d’atterrissage.
@@ -147,8 +147,6 @@ Je fais demi-tour pour rapidement rejoindre le taxiway Bravo, puis charlie pour 
 
 L’heure block d’arrivée est notée. 2 heures 13 minutes de vol.
 29 Gal de 100LL consommé soit la moitié de l’autonomie du Comanche dans cette configuration. 
-
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/24.jpg)
 
 Prochaine étape : Prince George. Celle-ci je l’attends avec impatience, car elle marque le passage dans une nouvelle province Canadienne, la Colombie Britannique. Mais surtout, je rejoindrai et traverserai une partie des Rocky Mountains, incroyable massif montagneux qui s’étend du nord du Canada jusqu’à au sud des USA, non-loin de la frontière avec le Mexique.
 
