@@ -50,7 +50,7 @@ Le « Fuel and Payload » pour ce vol :
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/5.jpg)
 
-Comme à chaque vol de ce périple, le Fuel and Payload se ressemble : Masse à vide de l’avion de 1690 livres (767 kg environ), 360 livres (163 kg) de 100LL pour un plein complet, 170 livres (77 kg) pour le pilote et 100 livres (45 kg) de bagage.
+Comme à chaque vol de ce périple, celui-ci se ressemble : Masse à vide de l’avion de 1690 livres (767 kg environ), 360 livres (163 kg) de 100LL pour un plein complet, 170 livres (77 kg) pour le pilote et 100 livres (45 kg) de bagage.
 Je prévois de faire le plein à chaque étape. En général je le fais après l’atterrissage pour que la machine soit prête au prochain vol et afin aussi de limiter la condensation dans les réservoirs, comme le Comanche dort en général dehors et qu’il peut faire froid et humide la nuit dans ces régions en ce moment.
 
 Il ne me reste plus qu’à vérifier la météo pour trouver un créneau « volable » ces prochains jours. 
@@ -70,7 +70,7 @@ Rendez-vous sur le tarmac dans 5 heures !
 
 ## LE VOL
 
-J’ai rejoint ma machine sur le tarmac de Fort McMurray. Comme prévu, les conditions météos sont bonnes et compatible VFR. 
+J’ai rejoint ma machine sur le tarmac de Fort McMurray. Comme prévu, les conditions météos sont bonnes et compatibles VFR. 
 
 Le METAR au départ : CYMM 121919Z AUTO 26006KT 9SM FEW032 SCT043 OVC055 10/03 A3005 RMK SLP191
 
@@ -80,8 +80,8 @@ Je fais le tour de ma machine, RAS. Le démarrage du moteur se fait dans la foul
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/7.jpg)
 
-La 26 est en service. Depuis l’Apron 1, je roule taxiway H puis J avant de rejoindre le point d’arrêt 26.
-Les essais moteurs sont concluants, je configure le Comanche pour le décollage et fait mon briefing départ. Celui-ci est simple, outre les actions en cas d’avarie ou panne moteur, le départ du terrain se fera en effectuant un léger virage par la gauche au passage des 1000 ft AGL, après avoir rétracter les volets et couper la pompe et les phares d’atterrissage.
+La 26 est en service. Depuis l’Apron 1, je roule taxiway Hotel puis Juliett avant de rejoindre le point d’arrêt 26.
+Les essais moteurs sont concluants, je configure le Comanche pour le décollage et fait mon briefing départ. Celui-ci est simple, outre les actions en cas d’avarie ou panne moteur, le départ du terrain se fera en effectuant un léger virage par la gauche au passage des 1000 ft AGL, après avoir rétracter les volets et couper la pompe et phares d’atterrissage.
 Le cap à prendre sera le 245, pour une route au 243.
 
 Alignement et décollage, le vent est faible et dans l’axe, le Comanche décolle relativement court, sans besoin de se battre pour maintenir l’axe. C’est parti !
@@ -108,7 +108,7 @@ Premier waypoint passé, le coude de la rivière Athabasca. Je poursuis ma navig
 
 J’ai pris l’habitude d’afficher toujours les mêmes paramètres moteurs en vol, hors condition spécifique : 22 inHG et 2400 RPM.
 Ces paramètres me donnent environ 70% de la puissance, avec une consommation, avion mixturé, d’environ 15 GAL/H. 
-Le terrain est facile à repérer puisqu’il se situe au milieu du Lac Wabasca qui s’assèche au centre donnant l’impression que celui-ci est composé de deux lacs.
+Le terrain est facile à repérer puisqu’il se situe au milieu du Lac Wabasca avec une bande "sèche" au centre donnant l’impression de deux lacs bien distincts.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/14.jpg)
 
@@ -122,8 +122,7 @@ Le vol se poursuit sans difficulté, le WP2 est passé, c’est un lac avec une 
 
 Puis je fini par rejoindre le dernier point de report, l’aérodrome de Donnelly qui se trouve à quelques nautiques à l’ouest de deux petits lacs. Assez facile à repérer en vol. La prochaine étape sera notre aérodrome de destination, Grande Prairie.
 
-A partir de là, les paysages commencent à changer drastiquement. Les grandes forêts boréales laissent place à d’immenses champs carrés de culture, déstructurés seulement par quelques vallons de rivière. 
-C’est tout aussi magnifique.
+A partir de là, les paysages commencent à changer drastiquement. Les grandes forêts boréales laissent place à d’immenses champs carrés de culture, déstructurés seulement par quelques vallons de rivière. C'est d'ailleurs de ces grandes étendues qu'est tiré le nom de "Grande Prairie". En tout cas, c’est tout aussi beau vu du ciel.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/18.jpg)
 
@@ -131,7 +130,7 @@ C’est tout aussi magnifique.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/20.jpg)
 
-J’ai enfin visuel sur la ville de Grande Prairie. Le terrain est 1 NM à l’ouest de celle-ci. Le vent est faible, je choisis spontanément la piste 30 qui est la plus longue et je prévois une intégration directement en début de base main droite entrant directement à l’altitude du circuit d’aérodrome.
+J’ai enfin visuel sur la ville de Grande Prairie. Le terrain est 1 NM à l’ouest de celle-ci. Le vent est faible, je choisis spontanément la piste 30 qui est la plus longue et je prévois une intégration directement en début de base main droite entrant directement à l’altitude du circuit d’aérodrome. Je pense aussi à ne pas survoler le Flyingshot Lake plus au sud.
 Celui-ci étant contrôlé, je peux facilement imaginer que l’ATC m’aurait donné cette option là si le traffic était faible dans la boucle.
 
 J’effectue un survol de la ville, même si, après réflexion, j’aurais pu la contourner par le sud en effectuant une (très) longue final piste 30.
@@ -143,12 +142,12 @@ J’effectue un survol de la ville, même si, après réflexion, j’aurais pu l
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/23.jpg)
 
 Posé, pas cassé. 
-Je fais demi-tour pour rapidement rejoindre le taxiway Bravo, puis charlie pour me garer à l’Apron 2.
+Je fais demi-tour pour rapidement rejoindre le taxiway Bravo, puis Charlie pour me garer à l’Apron 2.
 
 L’heure block d’arrivée est notée. 2 heures 13 minutes de vol.
 29 Gal de 100LL consommé soit la moitié de l’autonomie du Comanche dans cette configuration. 
 
-Prochaine étape : Prince George. Celle-ci je l’attends avec impatience, car elle marque le passage dans une nouvelle province Canadienne, la Colombie Britannique. Mais surtout, je rejoindrai et traverserai une partie des Rocky Mountains, incroyable massif montagneux qui s’étend du nord du Canada jusqu’à au sud des USA, non-loin de la frontière avec le Mexique.
+Prochaine étape : Prince George. Celle-ci, je l’attends avec impatience, car elle marque le passage dans une nouvelle province Canadienne, la Colombie Britannique. Mais surtout, je rejoindrai et traverserai une partie des Rocky Mountains, incroyable massif montagneux qui s’étend du nord du Canada jusqu’à au sud des USA, non-loin de la frontière avec le Mexique.
 
 See you next flight,
 ClearedForNowhere.
