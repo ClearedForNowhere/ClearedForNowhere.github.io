@@ -15,21 +15,21 @@ Pour cette 7e étape, c’est un vol de 278 NM qui m’attends. Relativement lon
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/1.jpg)
 
-Je commence donc à prépare cette nouvelle étape.  J’ai choisi quelques waypoint plutôt facile à décerner en vol (coude de rivière, lac, ville). Je prévois aussi de survoler quelques petits terrains au cas où j’aurais besoin de me dérouter sans urgence durant le vol. Celui-ci se décompose donc en 5 branches d’une vingtaine de minute environ chacune. Cela me permettra, entre autres, de faire un check carburant et de recaler le directionnel comme j’ai l’habitude le faire au passage de chaque waypoint en utilisant un moyen mnémotechnique que tout pilote apprend durant sa formation.
+Je commence donc à prépare cette nouvelle étape. J’ai choisi quelques waypoint plutôt facile à dicerner en vol (rivière, lac, ville). Je prévois aussi de survoler quelques petits terrains au cas où j’aurais besoin de me dérouter sans urgence durant le vol. Celui-ci se décompose donc en 5 branches d’une vingtaine de minute environ chacune. Cela me permettra, entre autres, de faire un check carburant et de recaler le directionnel comme j’ai l’habitude le faire au passage de chaque waypoint en utilisant un moyen mnémotechnique que tout pilote apprend durant sa formation.
 
 De mon côté, j’ai retenu TCRAMET :
 
--	T : Top
--	C : Cap / Compas
--	R : Radio
--	A : Altitude
--	M : Moteur
--	E : Estime / Essence
--	T : Température
+-	T : Top ==> C'est le "stop chrono", cela me permet de voir si mes estimations de temps de vol par branche sont bonnes ou pas. Je peux les recaler au besoin, durant le vol.
+-	C : Cap / Compas ==> Le directionnel d'un avion se dérègle de quelques degrés au fil du temps (plusieurs degrés par heure). Si je l'utilise comme moyen de navigation, celui-ci doit être recalé régulièrement. Pour cela, je le compare avec mon compas, qui lui indiquera toujours le nord magnétique. Ce recalage est donc fait à chaque passage de waypoint.
+-	R : Radio : Je fais une passe sur les prochaines fréquences à afficher et les prochains contrôles à contacter.
+-	A : Altitude : Je check mon altitude et recale mon altimètre avec le QNH de ma position si celui-ci est accessible.
+-	M : Moteur : je check mes paramètres moteurs ainsi que les différentes températures (huile, eau,) ainsi que les pressions (huile, essence).
+-	E : Estime / Essence : Je check la quantité d'essence qui se trouve dans les réservoirs. En fonction, je calcule ma consommation depuis le début du vol et je la compare avec la quantité restante afin de vérifier si je ne me suis pas trompé dans mes calculs de conso. Je vérifie que la quantité d'essence restante dans les réservoirs est compatible avec le temps de vol restant jusqu'à destination. Si l'appareil le permet, je peux switcher de réservoir pour optimiser la position de mon centre de gravité.
+-	T : Température : Je check ma température extérieure et température moteur afin de prévenir d'un potentiel givrage carburateur. Si il y a un doute, je tire ma réchauffe carburateur.
 
 A chaque passage d’un point de repère ou d’un waypoint, je fais une passe sur tout ce que je viens de citer, et cela permet, de façon régulière, de faire un check sur les principaux paramètres à surveiller / afficher lors de la navigation.
 
-Retour à la préparation, je prévois donc un départ de l’Aéroport International de Fort McMurray (CYMM). Après le départ, je prendrai un cap 243° en direction de mon premier WP. Durant cette première branche, je ferai principalement du cheminement en longeant la rivière Athabasca. Mon WP1 est un coude naturel de la rivière, celle-ci prenant une direction vers le sud-est. Au passage du WP1, j’afficherai ensuite un cap 219 en direction de l’aérodrome de Wabasca (CEE5).
+Retour à la préparation, je prévois donc un départ de l’Aéroport International de Fort McMurray (CYMM). Après le départ, je prendrai un cap 243° en direction de mon premier waypoint. Durant cette première branche, je ferai principalement du cheminement en longeant la rivière Athabasca. Mon WP1 est un coude naturel de la rivière, celle-ci prenant une direction vers le sud-est. Au passage du WP1, j’afficherai ensuite un cap 219 en direction de l’aérodrome de Wabasca (CEE5).
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/2.jpg)
 
