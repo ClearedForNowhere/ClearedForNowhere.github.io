@@ -12,7 +12,7 @@ published: true
 J'entame aujourd'hui la préparation de la 8e étape vers Point Hope. Comme écrit dans mes anciens postes, j'attendais ce moment depuis longtemps car je vais enfin pouvoir rejoindre et survoler les Rocky Mountains. 
 Je suis actuellement à Grandie Prairie, en Alberta. Et j'ai choisi comme destination Prince George, en Colombie-Britannique. Je traverserai la frontière entre ces deux provinces durant ce vol. 
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/1.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/1.png)
 
 Pour situer un petit peu, et parce que je n'en ai pas forcément parlé dans mon ancien poste, Grande Prairie est une ville relativement grande. Wikipédia me dit que c'est le plus grand centre économique de la région. Elle est situé à 456 kilomètres au nord-ouest d'Edmonton, capitale de la province de l'Alberta. Pour en revenir à Grande Prairie, c'est une ville qui vit, entre autre, grâce à l'exploitation des forêts ainsi que des gisements de gaz et de pétrole. Son aérodrome est aussi un aéroport avec la présence d'un terminal pour les arrivées et départs vers les quelques aéroports régionaux comme Edmonton ou Calgary. Il y a aussi une activité d'aviation d'affaire, en plus d'une aviation générale développée sur le terrain.
 
