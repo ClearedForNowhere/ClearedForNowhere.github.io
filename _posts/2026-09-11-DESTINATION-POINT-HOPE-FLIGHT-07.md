@@ -9,7 +9,8 @@ image: DPH_FLIGHT_07/HEADER/DPH_FLIGHT_07_HEADER.jpg
 published: true
 ---
 
-## LA PREPARATION
+## PREPARAITON DE LA NAVIGATION
+10 septembre 2026
 
 Pour cette 7e étape, c’est un vol de 278 NM qui m’attends. Relativement long donc. Sans vent, il me faudra 1h45 pour rejoindre Grande Prairie, et cela sans compter la procédure d’arrivée.
 
@@ -55,7 +56,9 @@ Je prévois de faire le plein à chaque étape. En général je le fais après l
 
 Il ne me reste plus qu’à vérifier la météo pour trouver un créneau « volable » ces prochains jours. 
 
-## LE JOUR DU VOL
+## LE JOUR J
+11 septembre 2026
+
 
 Un check météo dans l’après-midi me confirme que les conditions sont favorables pour le vol de ce soir.
 Pour rappel, je vol toujours aux alentours de 1900 ZULU, ce qui donne 1300 LOCAL pour l’Alberta.
