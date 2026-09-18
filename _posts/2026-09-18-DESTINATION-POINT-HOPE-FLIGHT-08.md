@@ -9,6 +9,8 @@ image: DPH_FLIGHT_08/HEADER/DPH_FLIGHT_08_HEADER.png
 published: true
 ---
 
+## LA PREPARATION
+
 J'entame aujourd'hui la préparation de la 8e étape vers Point Hope. Comme écrit dans mes anciens postes, j'attendais ce moment depuis longtemps car je vais enfin pouvoir rejoindre et survoler les Rocky Mountains. 
 Je suis actuellement à Grandie Prairie, en Alberta. Et j'ai choisi comme destination Prince George, en Colombie-Britannique. Je traverserai la frontière entre ces deux provinces durant ce vol. 
 
@@ -54,3 +56,4 @@ Et pour finir, la question du logement se pose aussi, et, même si j'imagine pou
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/7.jpg)
 
+## LE JOUR DU VOL
