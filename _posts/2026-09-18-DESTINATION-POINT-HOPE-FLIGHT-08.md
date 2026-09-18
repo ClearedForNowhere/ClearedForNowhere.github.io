@@ -55,9 +55,9 @@ Dernier point à garder en tête, le carburant, mais ça ne devrait pas être un
 
 Et pour finir, la question du logement se pose aussi, et, même si j'imagine pouvoir trouver une âme charitable qui veuille bien m'accueillir pour les quelques nuits que je devrais passer sur place, j'avais emporté avec moi tout mon matériel de camping. Je serai heureux de pouvoir l'utiliser pour la première fois dans ce voyage.
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/7.jpg)
-
 Si le terrain de Beaverley est accessible, je privilégierai une approche par le nord afin de rester éloigné de l'aéroport de Prince George et pour éviter le survol de la ville par la même occasion. Ma navigation sera donc composée d'un 4e point de report (WP4), qui se situe à la verticale 3700 ft de la Pilot Mountain, 11 NM au nord de ma destination.
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/7.jpg)
 
 
 ## LE JOUR DU VOL
