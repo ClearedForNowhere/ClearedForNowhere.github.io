@@ -57,4 +57,7 @@ Et pour finir, la question du logement se pose aussi, et, même si j'imagine pou
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/7.jpg)
 
+Si le terrain de Beaverley est accessible, je privilégierai une approche par le nord afin de rester éloigné de l'aéroport de Prince George et pour éviter le survol de la ville par la même occasion. Ma navigation sera donc composée d'un 4e point de report (WP4), qui se situe à la verticale 3700 ft de la Pilot Mountain, 11 NM au nord de ma destination.
+
+
 ## LE JOUR DU VOL
