@@ -9,19 +9,16 @@ image: DPH_FLIGHT_02/HEADER/DPH_FLIGHT_02_HEADER.jpg
 published: true
 ---
 
-(post initiialement posté en anglais sur Instagram)
+(article initiialement posté en anglais sur Instagram)
 
-## LA PREPARATION
 Mardi dernier, j'ai effectué la deuxième étape de ce voyage. Celle-ci m'a emmené à Thunder bay, de l'autre côté du Lake Superior, en suivant sa rive nord.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_02/CONTENU/1.png)
 
-## LE JOUR DU VOL
 Cette fois-ci, les conditions météorologiques étaient plutôt bonnes, meilleures qu'au dernier vol en tout cas, avec une couche nuageuse broken au-dessus du FL100 et un vent d'ouest de 10 kts tout au long de la route. Un rapide check effectué le matin avait toutefois montré un risque d'orages à l'arrivée sur Thunder Bay, avec des averses localisées.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_02/CONTENU/2.jpg)
 
-## LE VOL
 Le METAR de Sault-Sainte-Marie annonçait un vent de 5 nœuds, de direction variable, ce qui m'a permis de choisir la piste 05 et de simplifier le départ, avec un virage à gauche après le décollage vers mon premier point de report.
 
 J'ai ensuite rapidement grimpé jusqu'au FL045, mon altitude de croisière prévue pour ce vol. La visibilité était excellente à cette altitude, ce qui m'a permis d'observer le lac Supérieur sur ma gauche et les nombreuses zones protégées sur ma droite tout au long de la route, notamment le Lake Superior Provincial Park, le Northern Claybelt Forest Complex et le Pukaskwa National Park.
