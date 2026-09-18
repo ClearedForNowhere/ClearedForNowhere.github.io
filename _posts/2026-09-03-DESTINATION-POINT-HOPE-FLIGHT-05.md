@@ -9,8 +9,6 @@ image: DPH_FLIGHT_05/HEADER/DPH_FLIGHT_05_HEADER.jpg
 published: true
 ---
 
-(post initiialement posté en anglais sur Instagram)
-
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/1.jpg)
 
 Hier, j'ai effectué une nouvelle étape de mon long voyage vers Point Hope, en Alaska. J'ai franchi une nouvelle frontière provinciale et suis entré en Saskatchewan, avec un atterrissage à La Ronge.
