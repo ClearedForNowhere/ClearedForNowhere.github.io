@@ -35,7 +35,7 @@ Mixturé et paramètres moteur affichés, le Comanche consomme 15 Gal/h, ce qui 
 
 
 ## LE JOUR J
-23 aoüt 2026
+23 août 2026
 
 Un rapide bilan météo dans la journée n’est pas très rassurant, même si les conditions sont établies pour du VFR, elles ne sont pas optimales. Beaucoup d’averse de pluie et des rafales de vent à l’arrivée.
 J’acte quand même le vol et prévois quelques terrains de déroutement au cas où l’atterrissage ne pourrait pas se faire.
