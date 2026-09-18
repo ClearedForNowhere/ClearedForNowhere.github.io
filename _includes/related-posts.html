@@ -25,11 +25,12 @@
 
   {% for mypost in site.posts %}
 
-    {% if mypost.url != page.url and mypost.categories contains current_category %}
-    {% else %}
-
-      {% assign next_post = mypost %}
-      {% break %}
+    {% if mypost.url != page.url %}
+      
+      {% unless mypost.categories contains current_category %}
+        {% assign next_post = mypost %}
+        {% break %}
+      {% endunless %}
 
     {% endif %}
 
