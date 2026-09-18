@@ -9,8 +9,6 @@ image: DPH_FLIGHT_04/HEADER/DPH_FLIGHT_04_HEADER.jpg
 published: true
 ---
 
-(post initiialement posté en anglais sur Instagram)
-
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/1.jpg)
 
 Presque 3 heures de vol, depuis le lâcher des freins au départ jusqu'à l'arrêt du moteur à l'arrivée. On changement clairement de registre, surtout en régime de vol VFR et sans pilote auto. Heureusement, les paysages sont toujours absolument magnifiques, et c'est un vrai plaisir de regarder par les fenêtres.
