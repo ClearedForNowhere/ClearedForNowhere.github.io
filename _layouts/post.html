@@ -24,3 +24,9 @@ layout: default
     {% include disqus.html %}
   {% endif %}
 </div>
+
+<script>
+  document.querySelectorAll('.post-content article img').forEach(function(img) {
+    img.setAttribute('loading', 'lazy');
+  });
+</script>
