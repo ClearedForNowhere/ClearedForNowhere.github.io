@@ -9,9 +9,6 @@ image: DPH_FLIGHT_01/HEADER/DPH_FLIGHT_01_HEADER.jpg
 published: true
 ---
 
-## PREPARATION DE LA NAVIGATION
-23 août 2026
-
 Et c’est reparti, je viens de terminer la préparation de cette première étape de ce long voyage qui m’emmènera jusqu’à Point Hope en Alaska.
 Il y en aura 17 autres comme celle-ci.
 
@@ -33,14 +30,8 @@ Le centrage est bon et le restera si je reste dans cette configuration, ce qui s
 
 Mixturé et paramètres moteur affichés, le Comanche consomme 15 Gal/h, ce qui me donne une autonomie de 4 heures.
 
-
-## LE JOUR J
-23 août 2026
-
 Un rapide bilan météo dans la journée n’est pas très rassurant, même si les conditions sont établies pour du VFR, elles ne sont pas optimales. Beaucoup d’averse de pluie et des rafales de vent à l’arrivée.
 J’acte quand même le vol et prévois quelques terrains de déroutement au cas où l’atterrissage ne pourrait pas se faire.
-
-## LE VOL
 
 Les conditions météo au départ ne sont finalement pas trop mal, avec une couche nuageuse overcast au-delà du FL100. Le vent est soutenu mais constant et dans les limites démontrées de vent de travers pour le PA24.
 
