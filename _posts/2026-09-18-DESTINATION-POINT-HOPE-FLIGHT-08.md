@@ -40,7 +40,7 @@ En regardant les altitudes topographiques du terrain, et en prenant un "corridor
 De 0° à 179°, je dois choisir un niveau impair +500 ft. De 180° à 359° je dois choisir un niveau pair + 500 ft.
 
 Ma navigation se fera intégralement entre 180° et 359°, je dois donc choisir un niveau de vol pair + 500 ft. En reprenant la topographie + hauteur mini de survol + règle semi-circulaire, mon altitude de croisière choisi sera 10500 ft.
-Il faudra donc que je prévois l'utilisation d'un système d'appoint personnel d'oxygène car mon vol durera plus de 30 minutes, et le PA24-250 n'est pas pressurisé. Mais j'avais prévu le coup en louant avant mon départ un système complet  d'apport d'oxygène.
+Il faudra donc que je prévois l'utilisation d'un système d'appoint personnel d'oxygène car mon vol durera plus de 30 minutes, et le PA24-250 n'est pas pressurisé.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/5.jpg)
 
