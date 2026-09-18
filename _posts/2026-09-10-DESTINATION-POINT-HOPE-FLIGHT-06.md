@@ -9,8 +9,6 @@ image: DPH_FLIGHT_06/HEADER/DPH_FLIGHT_06_HEADER.jpg
 published: true
 ---
 
-(post initiialement posté en anglais sur Instagram)
-
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_06/CONTENU/1.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_06/CONTENU/2.jpg)
