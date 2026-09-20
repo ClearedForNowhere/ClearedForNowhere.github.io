@@ -5,7 +5,7 @@ author: "Pierre IOZZOLI"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_08/COVER/DPH_FLIGHT_08_COVER.png
-image: DPH_FLIGHT_08/HEADER/DPH_FLIGHT_08_HEADER.png
+image: DPH_FLIGHT_08/HEADER/DPH_FLIGHT_08_HEADER.jpg
 published: true
 ---
 
