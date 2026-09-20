@@ -52,11 +52,17 @@
       <h3>
         <a href="{{ site.github.url }}{{ next_post.url }}">
 
-          <div class="related-thumbnail">
-            {% if next_post.image %}
-              <img src="{{ site.github.url }}/assets/img/{{ next_post.image }}">
-            {% endif %}
-          </div>
+        <div class="related-thumbnail">
+
+  {% if next_post.image %}
+    <img src="{{ site.github.url }}/assets/img/{{ next_post.image }}">
+
+  {% elsif next_post.cover %}
+    <img src="{{ site.github.url }}/assets/img/{{ next_post.cover }}">
+
+  {% endif %}
+
+</div>
 
           <div class="related-title">
             {{ next_post.title }}
