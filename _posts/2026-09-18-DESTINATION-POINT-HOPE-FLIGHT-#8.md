@@ -12,8 +12,6 @@ published: true
 ## LA PREPARATION
 le 18 septembre 2026
 
-<br>
-
 J'entame aujourd'hui la préparation de la 8e étape vers Point Hope. Comme écrit dans mes anciens posts, j'attendais ce moment depuis longtemps car je vais enfin pouvoir rejoindre et survoler les Rocky Mountains. 
 Je suis actuellement à Grande Prairie, en Alberta. Et j'ai choisi comme destination Prince George, en Colombie-Britannique. Je traverserai la frontière entre ces deux provinces durant ce vol. 
 
@@ -62,8 +60,6 @@ Si le terrain de Beaverley est accessible, je privilégierai une approche par le
 
 ## LE VOL
 le 19 septembre 2026
-
-<br>
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/8.jpg)
 
