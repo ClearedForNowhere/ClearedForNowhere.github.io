@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DESTINATION POINT HOPE, FLIGHT 08"
+title: "DESTINATION POINT HOPE, FLIGHT #8"
 author: "Pierre IOZZOLI"
 categories: flightsimulator
 tags: [destination-point-hope]
