@@ -11,6 +11,7 @@ published: true
 
 ## PREPARAITON DE LA NAVIGATION
 10 septembre 2026
+
 <br>
 
 Pour cette 7e étape, c’est un vol de 278 NM qui m’attends. Relativement long donc. Sans vent, il me faudra 1h45 pour rejoindre Grande Prairie, et cela sans compter la procédure d’arrivée.
@@ -59,6 +60,7 @@ Il ne me reste plus qu’à vérifier la météo pour trouver un créneau « vol
 
 ## LE JOUR J
 11 septembre 2026
+
 <br>
 
 Un check météo dans l’après-midi me confirme que les conditions sont favorables pour le vol de ce soir.
@@ -74,8 +76,8 @@ Rendez-vous sur le tarmac dans 5 heures !
 
 ## LE VOL
 
-<br
->
+<br>
+
 J’ai rejoint ma machine sur le tarmac de Fort McMurray. Comme prévu, les conditions météos sont bonnes et compatibles VFR. 
 
 Le METAR au départ : CYMM 121919Z AUTO 26006KT 9SM FEW032 SCT043 OVC055 10/03 A3005 RMK SLP191

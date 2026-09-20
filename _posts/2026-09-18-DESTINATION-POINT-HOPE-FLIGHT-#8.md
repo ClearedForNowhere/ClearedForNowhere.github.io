@@ -60,3 +60,76 @@ Si le terrain de Beaverley est accessible, je privilégierai une approche par le
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/7.jpg)
 
 
+## LE VOL
+le 19 septembre 2026
+
+<br>
+
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/8.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/9.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/10.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/11.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/START.GIF)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/TAKEOFF.GIF)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/12.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/13.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/14.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/15.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/16.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/17.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/18.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/INFLIGHT.GIF)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/19.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/20.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/INFLIGHT_02.GIF)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/21.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/22.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/23.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/24.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/25.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/INFLIGHT_03.GIF)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/26.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/27.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/28.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/29.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/30.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/31.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/32.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/33.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/34.jpg)
+
+
+See you next flight,
+Cleared For Nowhere.
