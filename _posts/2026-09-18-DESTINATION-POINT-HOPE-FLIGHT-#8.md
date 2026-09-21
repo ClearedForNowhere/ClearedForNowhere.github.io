@@ -83,13 +83,15 @@ Roulage, essais moteur, briefing et déjà je m'aligne piste 25. Décollage vent
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/TAKEOFF.gif)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/12.jpg)
-Durant toute la première partie du vol, je garderai visuel sur la Wapiti River, jusqu'à mon WP2, le Wapiti Lake, comme expliqué ci-dessus.
+Durant toute la première partie du vol je garderai visuel sur la Wapiti River, jusqu'à mon WP2 le Wapiti Lake, comme expliqué ci-dessus.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/13.jpg)
-La montée est relativement longue, 10 minutes environ. J'affiche plein gaz côté pression d'admission, soit 26.6 inHg au sol pour finir à 19.9 inHG en croisière à 10500 ft (plein gaz). Le régime est calé à 2400 tr/min, ce qui me donne environ 60% de puissance et 15 GAL/H de consommation.
+La montée est relativement longue, 10 minutes environ. J'affiche plein gaz côté pression d'admission, soit 26.6 inHg au sol pour finir à 19.9 inHG en croisière à 10500 ft (plein gaz). Le régime est calé à 2400 tr/min, ce qui me donne environ 60% de puissance pour une consommation de 15 GAL/H.
 Dans un soucis d'optimisation, je tente de réduire ma consommation en montée pour ne pas emplafonner mes prévisions. Mais en appauvrissant le mélange, la combustion devient plus chaude, ce qui à pour conséquence d'augmenter la température d'EGT (Engine Gas Temperature) puis, avec un peu d'inertie, la température de cylindre (CHT).
-Heureusement que le Comanche est équipé d'un Engine Monitor (JPI EDM 830) qui m'a permis de détecter rapidement que la CHT du cylindre 5 dépassait les limites constructeurs. L'enrichissement du mélange à permis de refroidir presque instantanément sa température ! 
-Le moteur du PA24-250 est un Lycoming O-540, 6 cylindres à plat de 250 cv. Les cylindres 5 et 6 sont les plus éloignées de l'entrée d'air de l'avion. Ce sont naturellement ces cylindres qui chauffent le plus.
+Heureusement que le Comanche est équipé d'un Engine Monitor (JPI EDM 830) qui m'a permis de détecter rapidement ce phénomène au niveau du cylindre 5, dont la CHT a dépassé sur un court instant les limites constructeurs. L'enrichissement du mélange à permis quasi instantanément de retrouver des valeurs de CHT convenable.
+Le moteur du PA24-250 est un Lycoming O-540, 6 cylindres à plat de 250 cv refroidi par air. Les cylindres 5 et 6 sont justement les plus éloignées de l'entrée d'air de l'avion. Ce sont naturellement ces cylindres qui chauffent le plus.
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/135.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/14.jpg)
 
