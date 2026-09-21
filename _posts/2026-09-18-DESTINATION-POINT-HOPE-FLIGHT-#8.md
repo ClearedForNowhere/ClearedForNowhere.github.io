@@ -153,7 +153,7 @@ Dernier virage pour la finale 25.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/30.jpg)
 
-Le Comanche est parké. Je peux déballer les affaires de camping !
+Le Comanche est parqué. Je peux déballer les affaires de camping (haha!).
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/31.jpg)
 
