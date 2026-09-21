@@ -119,25 +119,41 @@ D'un point de vue géographique et en simplifiant un peu, les Rocheuses sont ori
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/21.jpg)
 
+Le Lower Blue Lake visible sur ma droite.
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/22.jpg)
 
+Et sur ma gauche la McGregor River que je vais suivre jusqu'à mon point de report numéro 3.
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/23.jpg)
+
+Mon WP3 est déjà visible, confluent de la McGregor River avec la Fraser River.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/24.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/25.jpg)
 
+Je longe par la rive droite l'Eaglet Lake, qui annonce mon arrivé sur Prince George.
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/INFLIGHT_03.gif)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/26.jpg)
 
+La petite montagne en face est mon WP4, la Pilot Mountain.
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/27.jpg)
 
+Passage au nord de Prince George avant de virer plein sud pour rejoindre le terrain de Beaverley.
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/28.jpg)
+
+Dernier virage pour la finale 25.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/29.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/30.jpg)
+
+Le Comanche est parké. Je peux déballer les affaires de camping !
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/31.jpg)
 
@@ -145,8 +161,15 @@ D'un point de vue géographique et en simplifiant un peu, les Rocheuses sont ori
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/33.jpg)
 
+Couché de soleil sur le terrain, je profite de mon premier atterrissage en Colombie-Britannique pour faire un petit bilan de mon voyage :
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/335.jpg)
+
+J'ai passé les 2000 NM et bientôt 16 heures de vol cumulées. Il me reste environ 1900 NM à parcourir, j'ai donc fait la moitié ! J'ai hâte de poursuivre cette aventure, les paysages devraient être tout autant magnifiques et il me tarde de pouvoir les survoler.
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/34.jpg)
 
+Prochaine arrêt : La ville de Smithers, toujours en Colombie-Britannique.
 
 See you next flight,
 Cleared For Nowhere.
