@@ -153,7 +153,7 @@ Dernier virage pour la finale 25.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/30.jpg)
 
-Le Comanche est parqué. Je peux déballer les affaires de camping (haha!).
+Le Comanche est parqué. Je peux déballer les affaires de camping.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/31.jpg)
 
@@ -165,7 +165,7 @@ Couché de soleil sur le terrain, je profite de mon premier atterrissage en Colo
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/335.jpg)
 
-J'ai passé les 2000 NM et bientôt 16 heures de vol cumulées. Il me reste environ 1900 NM à parcourir, j'ai donc fait la moitié ! J'ai hâte de poursuivre cette aventure, les paysages devraient être tout autant magnifiques et il me tarde de pouvoir les survoler.
+J'ai passé les 2000 NM de distance parcourue et bientôt 16 heures de vol cumulées. Il me reste environ 1900 NM à parcourir, j'ai donc fait la moitié ! J'ai hâte de poursuivre cette aventure, les paysages devraient être tout autant magnifiques et il me tarde de pouvoir les survoler.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/34.jpg)
 
