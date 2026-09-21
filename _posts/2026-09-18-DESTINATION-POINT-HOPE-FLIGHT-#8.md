@@ -62,7 +62,10 @@ Si le terrain de Beaverley est accessible, je privilégierai une approche par le
 ## LE VOL
 le 19 septembre 2026
 
+Le bilan météo de la mi-journée est positif, les prévisions de Windy annoncent un ciel dégagé tout au long du trajet, du moins aucune couverture nuageuse au FL105 ou en dessous. Pas de précipitions non plus.
+Le vent quant à lui devrait être assez soutenue au FL105, avec 30 kts au départ, faiblissant au fil du vol avec une provenance du sud-ouest. C'est donc un vent de face que j'aurais, qui n'avantage pas ma vitesse sol, mais le vol étant relativement court, ça ne m'embête pas plus que ça :
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/8.jpg)
+
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/9.jpg)
 
@@ -74,11 +77,16 @@ le 19 septembre 2026
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/START.gif)
 
+Ma prévol effectuée, je grimpe dans l'appareil et déroule la checklist jusqu'au démarrage moteur. Les pressions sont dans le vert, l'Avionic Master sur ON, la radio et le transpondeur aussi. Ma machine est configurée, prête à rouler. La piste 25 est en service. Mon temps de roulage jusqu'au point d'arrêt étant faible, je laisse le moteur chauffer tranquilement au parking. Heure block : 20:10 UTC
+Roulage, essais moteur, briefing et déjà je m'aligne piste 25. Décollage vent dans l'axe, puis léger virage par la gauche après le passage des 1000 ft AGL.
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/TAKEOFF.gif)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/12.jpg)
+Durant toute la première partie du vol, je garderai visuel sur la Wapiti River, jusqu'à mon WP2, le Wapiti Lake, comme expliqué ci-dessus.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/13.jpg)
+La montée est relativement longue, 10 minutes environ. J'affiche plein gaz côté pression d'admission, soit 26.6 inHg au sol,
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/14.jpg)
 
