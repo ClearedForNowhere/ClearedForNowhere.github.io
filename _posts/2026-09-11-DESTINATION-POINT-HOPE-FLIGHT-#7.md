@@ -22,8 +22,8 @@ Je commence donc à prépare cette nouvelle étape. J’ai choisi quelques waypo
 
 De mon côté, j’ai retenu TCRAMET :
 
--	T : Top ==> C'est le "stop chrono", cela me permet de voir si mes estimations de temps de vol par branche sont bonnes ou pas. Je peux les recaler au besoin, durant le vol.
--	C : Cap / Compas ==> Le directionnel d'un avion se dérègle de quelques degrés au fil du temps (plusieurs degrés par heure). Si je l'utilise comme moyen de navigation, celui-ci doit être recalé régulièrement. Pour cela, je le compare avec mon compas, qui lui indiquera toujours le nord magnétique. Ce recalage est donc fait à chaque passage de waypoint.
+-	T : Top : C'est le "stop chrono", cela me permet de voir si mes estimations de temps de vol par branche sont bonnes ou pas. Je peux les recaler au besoin, durant le vol.
+-	C : Cap / Compas : Le directionnel d'un avion se dérègle de quelques degrés au fil du temps (plusieurs degrés par heure). Si je l'utilise comme moyen de navigation, celui-ci doit être recalé régulièrement. Pour cela, je le compare avec mon compas, qui lui indiquera toujours le nord magnétique. Ce recalage est donc fait à chaque passage de waypoint.
 -	R : Radio : Je fais une passe sur les prochaines fréquences à afficher et les prochains contrôles à contacter.
 -	A : Altitude : Je check mon altitude et recale mon altimètre avec le QNH de ma position si celui-ci est accessible.
 -	M : Moteur : je check mes paramètres moteurs ainsi que les différentes températures (huile, eau,) ainsi que les pressions (huile, essence).
