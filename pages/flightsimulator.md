@@ -2,6 +2,7 @@
 layout: page
 title: FLIGHT SIMULATOR
 permalink: /flightsimulator
+description : Une collection de vols virtuels, de voyages au long cours et d’expériences autour de la simulation aérienne.
 ---
 
 {% for post in site.categories.flightsimulator %}
