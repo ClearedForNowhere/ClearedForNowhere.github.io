@@ -95,7 +95,7 @@ Le moteur du PA24-250 est un Lycoming O-540, 6 cylindres à plat de 250 cv refro
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/14.jpg)
 
-Plus peur que de mal donc, après action correction, les températures sont rentrées dans leurs plages normales de fonctionnement.
+Plus peur que de mal donc, après action corrective, les températures sont rentrées dans leurs plages normales de fonctionnement.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/15.jpg)
 
@@ -109,7 +109,7 @@ Au premier point de report (WP1), les rocheuses sont déjà bien visibles !
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/INFLIGHT.gif)
 
-D'un point de vue géographique, les Rocheuses sont orientés, en simplifiant, nord/sud. Le vent provenant du sud-ouest, j'avais peur ... A SUIVRE.
+D'un point de vue géographique et en simplifiant un peu, les Rocheuses sont orientées nord/sud. Le vent provenant du sud-ouest, j'avais peur de subir quelques turbulences lors du survol du massif mais c'est finalement un air plutôt calme que j'ai rencontré. Rien de mieux pour pouvoir "sortir" la tête de l'avion et profiter un peu plus du paysage.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/19.jpg)
 
