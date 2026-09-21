@@ -9,6 +9,7 @@ image: DPH_FLIGHT_08/HEADER/DPH_FLIGHT_08_HEADER.jpg
 published: true
 ---
 
+<br>
 ## LA PREPARATION
 le 18 septembre 2026
 
@@ -57,7 +58,7 @@ Si le terrain de Beaverley est accessible, je privilégierai une approche par le
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/7.jpg)
 
-
+<br>
 ## LE VOL
 le 19 septembre 2026
 
