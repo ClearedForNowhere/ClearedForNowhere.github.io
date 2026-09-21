@@ -18,12 +18,15 @@ Quelques photos de la semaine dernière.
 ![MKFAS]({{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_01/CONTENU/1.jpg)
 
 ![MKFAS]({{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_01/CONTENU/2.jpg)
+Cirrocumulus pris au 600mm.
 
 ![MKFAS]({{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_01/CONTENU/3.jpg)
+Trainée de condensation causée par un avion volant à la même altitude que ces cirrocumulus.
 
 ![MKFAS]({{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_01/CONTENU/4.jpg)
+Stratocumulus au couché de soleil.
 
 ![MKFAS]({{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_01/CONTENU/5.jpg)
-
+ATR 72 de la compagnie HOP! peu de temps après son décollage d'Orly.
 
 Cleared For Nowhere.
