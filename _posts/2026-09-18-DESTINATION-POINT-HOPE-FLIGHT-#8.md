@@ -66,7 +66,6 @@ Le bilan météo de la mi-journée est positif, les prévisions de Windy annonce
 Le vent quant à lui devrait être assez soutenue au FL105, avec 30 kts au départ, faiblissant au fil du vol avec une provenance du sud-ouest. C'est donc un vent de face que j'aurais, qui n'avantage pas ma vitesse sol, mais le vol étant relativement court, ça ne m'embête pas plus que ça :
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/8.jpg)
 
-
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/9.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/10.jpg)
@@ -78,7 +77,7 @@ Le vent quant à lui devrait être assez soutenue au FL105, avec 30 kts au dépa
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/START.gif)
 
 Ma prévol effectuée, je grimpe dans l'appareil et déroule la checklist jusqu'au démarrage moteur. Les pressions sont dans le vert, l'Avionic Master sur ON, la radio et le transpondeur aussi. Ma machine est configurée, prête à rouler. La piste 25 est en service. Mon temps de roulage jusqu'au point d'arrêt étant faible, je laisse le moteur chauffer tranquilement au parking. Heure block : 20:10 UTC
-Roulage, essais moteur, briefing et déjà je m'aligne piste 25. Décollage vent dans l'axe, puis léger virage par la gauche après le passage des 1000 ft AGL.
+Roulage, essais moteur, briefing et déjà je m'aligne piste 25. Décollage vent dans l'axe, suivi d'un léger virage par la gauche après le passage des 1000 ft AGL.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/TAKEOFF.gif)
 
@@ -86,11 +85,18 @@ Roulage, essais moteur, briefing et déjà je m'aligne piste 25. Décollage vent
 Durant toute la première partie du vol, je garderai visuel sur la Wapiti River, jusqu'à mon WP2, le Wapiti Lake, comme expliqué ci-dessus.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/13.jpg)
-La montée est relativement longue, 10 minutes environ. J'affiche plein gaz côté pression d'admission, soit 26.6 inHg au sol,
+La montée est relativement longue, 10 minutes environ. J'affiche plein gaz côté pression d'admission, soit 26.6 inHg au sol pour finir à 19.9 inHG en croisière à 10500 ft (plein gaz). Le régime est calé à 2400 tr/min, ce qui me donne environ 60% de puissance et 15 GAL/H de consommation.
+Dans un soucis d'optimisation, je tente de réduire ma consommation en montée pour ne pas emplafonner mes prévisions. Mais en appauvrissant le mélange, la combustion devient plus chaude, ce qui à pour conséquence d'augmenter la température d'EGT (Engine Gas Temperature) puis, avec un peu d'inertie, la température de cylindre (CHT).
+Heureusement que le Comanche est équipé d'un Engine Monitor (JPI EDM 830) qui m'a permis de détecter rapidement que la CHT du cylindre 5 dépassait les limites constructeurs. L'enrichissement du mélange à permis de refroidir presque instantanément sa température ! 
+Le moteur du PA24-250 est un Lycoming O-540, 6 cylindres à plat de 250 cv. Les cylindres 5 et 6 sont les plus éloignées de l'entrée d'air de l'avion. Ce sont naturellement ces cylindres qui chauffent le plus.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/14.jpg)
 
+Plus peur que de mal donc, après action correction, les températures sont rentrées dans leurs plages normales de fonctionnement.
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/15.jpg)
+
+Au premier point de report (WP1), les rocheuses sont déjà bien visibles !
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/16.jpg)
 
@@ -99,6 +105,8 @@ La montée est relativement longue, 10 minutes environ. J'affiche plein gaz côt
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/18.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/INFLIGHT.gif)
+
+D'un point de vue géographique, les Rocheuses sont orientés, en simplifiant, nord/sud. Le vent provenant du sud-ouest, j'avais peur ... A SUIVRE.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/19.jpg)
 
