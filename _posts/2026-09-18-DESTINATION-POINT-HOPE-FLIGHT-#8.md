@@ -76,7 +76,8 @@ Le vent quant à lui devrait être assez soutenue au FL105, avec 30 kts au dépa
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/START.gif)
 
-Ma prévol effectuée, je grimpe dans l'appareil et déroule la checklist jusqu'au démarrage moteur. Les pressions sont dans le vert, l'Avionic Master sur ON, la radio et le transpondeur aussi. Ma machine est configurée, prête à rouler. La piste 25 est en service. Mon temps de roulage jusqu'au point d'arrêt étant faible, je laisse le moteur chauffer tranquilement au parking. Heure block : 20:10 UTC
+Ma prévol effectuée, je grimpe dans l'appareil et déroule la checklist jusqu'au démarrage moteur. Les pressions sont dans le vert, l'Avionic Master sur ON, la radio et le transpondeur aussi. Ma machine est configurée, prête à rouler. La piste 25 est en service. Mon temps de roulage jusqu'au point d'arrêt étant faible, je laisse le moteur chauffer tranquilement au parking. Heure block : 20:10 UTC.
+<br>
 Roulage, essais moteur, briefing et déjà je m'aligne piste 25. Décollage vent dans l'axe, suivi d'un léger virage par la gauche après le passage des 1000 ft AGL.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/TAKEOFF.gif)
