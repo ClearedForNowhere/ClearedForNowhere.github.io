@@ -9,16 +9,16 @@ published: true
 ---
 
 <br>
-## LA PREPARATION
-le 18 septembre 2026
+## THE PREPARATION
+September 18, 2026
 
-J'entame aujourd'hui la préparation de la 8e étape vers Point Hope. Comme écrit dans mes anciens posts, j'attendais ce moment depuis longtemps car je vais enfin pouvoir rejoindre et survoler les Rocky Mountains. 
-Je suis actuellement à Grande Prairie, en Alberta. Et j'ai choisi comme destination Prince George, en Colombie-Britannique. Je traverserai la frontière entre ces deux provinces durant ce vol. 
+Today I'm starting the preparation for the 8th leg of my journey to Point Hope. As I mentioned in my previous posts, I've been looking forward to this one for a long time, because I'll finally get to reach and fly over the Rocky Mountains.
+I'm currently in Grande Prairie, Alberta, and I've chosen Prince George, British Columbia, as my destination. I'll cross the provincial border between AB and BC durung this flight.
 
-Pour situer un petit peu, et parce que je n'en ai pas forcément parlé avant, Grande Prairie est une ville relativement grande. Je peux lire sur Wikipédia que c'est le plus grand centre économique de la région. Elle est située à 456 kilomètres au nord-ouest d'Edmonton, capitale de la province de l'Alberta.
-C'est une ville qui vit, entre autre, de l'exploitation des forêts ainsi que des gisements de gaz et de pétrole. Son aérodrome est aussi un aéroport avec la présence d'un terminal pour les arrivées et départs vers les quelques aéroports régionaux comme Edmonton ou Calgary. Il y a aussi une activité d'aviation d'affaire, en plus d'une aviation générale développée sur le terrain.
+To give you a little bit of context, and because I haven’t really talked about it before, Grande Prairie is a relatively large city. According to Wikipedia, it is the largest economic center in the region. It is located 456 kilometers northwest of Edmonton, the capital of Alberta.
+The city’s economy is largely based on forestry, as well as oil and gas extraction. Its aerodrome is also an airport, with a terminal handling flights to and from regional airports such as Edmonton and Calgary. There is also a significant amount of business aviation, in addition to the well-established general aviation activity at the field.
 
-A mon arrivée lors du dernier vol, je me suis garé à l'Apron 2, où j'ai pu arrimer mon Comanche pour le temps passé sur place. Je me parqué tout proche de l'entreprise Happy Gas ou j'ai pu prendre un petit café dans leur Pilot Lounge avant de rejoindre le centre-ville en taxi. 
+When I arrived during the previous flight, I parked on Apron 2, where I secured my Comanche for the time I would be staying there. I parked right next to Happy Gas, where I was able to grab a quick coffee in their Pilot Lounge before taking a taxi into town.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/2.jpg)
 
@@ -28,46 +28,46 @@ A mon arrivée lors du dernier vol, je me suis garé à l'Apron 2, où j'ai pu a
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/45.jpg)
 <span class="small-note"><em>© Google Maps</em></span>
 
-Je rattaque donc la suite de mon aventure avec comme prochaine étape, Prince George en Colombie-Britannique (qui tire son nom de la combinaison de la rivière Columbia et de l'appelation "britannique" choisie par la reine Victoria en 1858).
-Alors même que Point Hope se trouve plus à l'ouest et surtout bien plus au nord, j'ai fait le choix de rejoindre Prince George, qui elle se trouve au sud-ouest de ma position, et cela pour la simple et bonne raison que je pourrais profiter d'avantage des Rocheuses quand il faudra par la suite remonter vers le nord.
-Cette étape va se distinguer par le survol de deux environnements. Le premier est celui justement des grandes prairies, relativement plat donc, avant de rencontrer les premiers reliefs à mi-vol.
+So, it’s time to continue my adventure, with Prince George, British Columbia, as the next stop. The name of the province comes from the combination of the Columbia River and the name “British,” chosen by Queen Victoria in 1858.
+Even though Point Hope is further west, and much further north, I chose to head to Prince George, which is actually southwest of my current position. The reason is quite simple: this route will allow me to enjoy more of the Rocky Mountains later, when I eventually turn north again.
+This leg will take me through two very different environments. The first will be the vast, relatively flat prairies, before reaching the first mountain terrain about halfway through the flight.
 
-Justement, parlons altitude. En régime de vol VFR, je suis légalement dans l'obligation de voler sous le FL195. Cependant, certaines contraintes physiques et/ou mécaniques nous obligent en général à voler plus bas. En dehors des différents espaces aériens contrôlés et dont les altitudes de croisière peuvent être imposées par l'ATC, ici ce qui va nous intéresser, c'est la limite d'altitude liée au manque d'oxygène, d'une part pour le pilote, d'autre part pour le moteur : 
-- Pour le pilote : il s'agit d'une contrainte physiologique, le risque d'hypoxie en vol est quelque chose à ne surtout pas négliger. Il existe d'ailleurs une réglementation stricte à ce sujet. Elle prévoit qu'en dessous de 10000 ft, le CDB n'a aucune obligation d'emporter et d'utiliser un apport d'oxygène artificiel. Entre 10000 et 13000 ft, le vol sans apport artificiel est possible, mais pour une durée de 30 minutes maximum. Au-delà de 13000 ft, un apport d'oxygène est obligatoire, soit personnel, et cela pour toutes les personnes dans l'appareil, ou bien par un système intégré à l'avion (système de pressurisation). Dans les faits, au-delà de 8000 ft, une attention peut déjà être portée aux premières sensations ressenties, et qui peuvent annoncer un début d'hypoxie (essoufflement, fatigue, etc).
-- Et pour le moteur : celui du Comanche est atmosphérique, il fonctionne donc par dépression. Sa puissance est directement lié à la quantité d'oxygène présent dans l'air aspiré par celui-ci en fonctionnement. En prenant de l'altitude, le niveau d'oxygène diminuant, sa puissance va aussi diminuer. Il existe une certaine altitude ou la puissance délivrée par le moteur ne sera plus suffisant pour maintenir une altitude et/ou garder une vitesse de croisière confortable.
+Speaking of altitude, let’s talk about that. Under VFR, I am legally required to remain below FL195. However, there are several physical and mechanical constraints that generally require us to fly lower. Apart from controlled airspace, where cruising altitudes may be assigned by ATC, what interests us here is the altitude limitation related to the lack of oxygen, both for the pilot and for the engine:
+- For the pilot: this is a physiological limitation. The risk of hypoxia in flight is something that should not be underestimated. There are also strict regulations regarding supplemental oxygen. Below 10,000 ft, the pilot-in-command is not required to carry or use supplemental oxygen. Between 10,000 and 13,000 ft, flight without supplemental oxygen is possible, but only for a maximum of 30 minutes. Above 13,000 ft, supplemental oxygen is mandatory, either through personal oxygen equipment for everyone on board, or through an aircraft-integrated system such as pressurization. In practice, however, it is already worth paying attention to the first symptoms above 8,000 ft, which can indicate the onset of hypoxia, such as shortness of breath or fatigue.
+- And for the engine: the Comanche's engine is normally aspirated, meaning it relies on ambient air pressure. Its power output is directly related to the amount of oxygen contained in the air entering the engine. As altitude increases and the oxygen density decreases, engine power also decreases. At some point, the engine will no longer produce enough power to maintain altitude and/or a comfortable cruising speed.
 
-Revenons au tracé, après avoir décollé, je prendrai une route au 220°, et, comme pour le dernier vol, j'aurais la chance de pouvoir naviguer par cheminement en longeant la Wapiti River et cela jusqu'au deux prochains points de report qui seront un méandre en forme de fer à cheval de la Wipiti River (WP1) puis le Wapiti Lake (WP2). Ces deux premières legs feront 75 NM.
-En regardant les altitudes topographiques du terrain, et en prenant un "corridor" de 10 nautiques autour de la trace, le sommet le plus haut est à 8389 ft, le Weaver Peak. En prenant les 500 ft de hauteur mini de survol, mon altitude de croisière pourrait être de 9000 ft. Il ne s'agit pas d'un niveau de vol, mon altimètre sera toujours réglé au QNH car l'altitude transition dans cette zone est 18 000 ft ASL. Cependant, en régime VFR, en-dessous de l'altitude de transition, je dois voler suivant la règle semi-circulaire. Celle-ci m'oblige, en fonction de ma route magnétique, à voler suivant un niveau pair ou impair + 500 ft.
-De 0° à 179°, je dois choisir un niveau impair +500 ft. De 180° à 359° je dois choisir un niveau pair + 500 ft.
+Let’s get back to the route. After takeoff, I’ll set a heading of 220° and, just like on the previous flight, I’ll be able to navigate by pilotage, following the Wapiti River all the way to the next two waypoints: first, a horseshoe-shaped bend in the Wapiti River (WP1), followed by Wapiti Lake (WP2). These first two legs will cover 75 NM.
+Looking at the terrain elevations and taking a 10-nautical-mile “corridor” around my planned track, the highest point is 8,389 ft, at Weaver Peak. Adding the minimum 500 ft required for overflight, my cruising altitude could be 9,000 ft. This is not a flight level, though: my altimeter will remain set to QNH, since the transition altitude in this area is 18,000 ft ASL. However, under VFR and below the transition altitude, I have to follow the semicircular rule. Depending on my magnetic track, this requires me to fly at either an odd or even cruising altitude, plus 500 ft.
+From 0° to 179°, I must choose an odd altitude + 500 ft. From 180° to 359°, I must choose an even altitude + 500 ft.
 
-Ma navigation se fera intégralement entre 180° et 359°, je dois donc choisir un niveau de vol pair + 500 ft. En reprenant la topographie + hauteur mini de survol + règle semi-circulaire, mon altitude de croisière choisi sera 10500 ft.
-Il faudra donc que je prévois l'utilisation d'un système d'appoint personnel d'oxygène car mon vol durera plus de 30 minutes, et le PA24-250 n'est pas pressurisé. Et heureusement, j'en avais loué un juste avant mon départ.
+My entire route will be between 180° and 359°, so I therefore have to choose an even altitude + 500 ft. Taking into account the terrain elevation, the minimum overflight height, and the semicircular rule, my chosen cruising altitude will be 10,500 ft.
+I’ll therefore need to plan for the use of a personal supplemental oxygen system, as the flight will last more than 30 minutes and the PA-24-250 is not pressurized. Fortunately, I had rented one just before departing.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/5.jpg)
 <span class="small-note"><em>© www.Finesse-Max.com</em></span>
 
-Pour ce qui est de la machine, je ne doute pas des performances du moteur pour maintenir cette altitute.
+As for the aircraft itself, I have no doubt that the engine will have enough performance to maintain this altitude.
 
-Je prévois deux autres legs avant d'arriver sur Prince George. Le troisième point de report (WP3) sera un confluent de la McGregor River avec la Fraser River. Ce point se situe à l'aval du massif et me permettra d'effectuer un top pour entamer ma descente et préparer mon arrivée.
-J'avais prévu initialement de me poser à l'aéroport de Prince George, mais celui-ci est particulièrement gros (3 pistes) et je pense avoir plus envie d'aventure à ce stade du voyage. Quelques nautiques plus au sud-ouest de la ville se trouve un petit terrain : Beaverley Airstrip (CBA8). Piste en herbe de 2400 ft, et un champ en guise de parking.
-Avant de me fixer sur ce terrain, je dois voir d'une part si celui-ci est modélisé dans MSFS, et, si je veux aller au bout de l'analyse, je devrais regarder les intempéries des derniers jours, afin de savoir si celui-ci peut être détrempé ou non. Le PA24 Comanche n'étant pas un avion de brousse, je n'ai pas très envie de me retrouver tanké sur place !
-Dernier point à garder en tête, le carburant, mais ça ne devrait pas être un problème, car avec l'autonomie que j'ai, je peux effectuer en sécurité, jusqu'à 480 nautiques à 160 kts. Aussi, la distance à parcourir entre Grande Prairie et la destiniation de ma 9e navigation (Smithers) sera de 320 nautiques. Pas besoin de faire le plein donc !
+I'm planning two more legs before reaching Prince George. The third waypoint (WP3) will be the confluence of the McGregor River and The Fraser River. This point is downstream of the mountain range and will allow me to reach my top-of-descent point and start preparing for the arrival.
+I initially planned to land at Prince George Airport, but it is quite a large airport, with three runways, and at this stage of the journey I think I'm looking for a little more adventure. A few nautical miles southwest of the city is a small airfield: Beaverley Airstrip (CBA8). It has a 2,400 ft grass runway and basically a field for parking.
+Before commiting to this airfield, I need to check whether it is actually modeled in MSFS. And if I want to take the analysis all the way, I should also look at the weather conditions over the previous few days to find out whether the field might be waterlogged. The PA-24 Comanche is not exactly a bush plane, and I really don't want to end up stuck there!
+One last thing to keep in mind is fuel, but that shouldn't be a problem. With the range I have, I can safely cover up to 480 nautical miles at 160 knots. The distance between Grande Prairie and the destination of my 9th flight, Smithers, is 320 nautical miles. So there's no need to refuel!
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/6.jpg)
 <span class="small-note"><em>© www.Finesse-Max.com</em></span>
 
-Et pour finir, la question du logement se pose aussi, et, même si j'imagine pouvoir trouver une âme charitable qui veuille bien m'accueillir pour les quelques nuits que je devrais passer sur place, j'avais emporté avec moi tout mon matériel de camping. Je serai heureux de pouvoir l'utiliser pour la première fois dans ce voyage.
+And finally, there's the question of accommodation. Although I imagine I could probably find a kind soul willing to let me stay for the few nights I'll be there, I brought all my camping gear with me. I'll be happy to finally put it to use for the first time on this journey.
 
-Si le terrain de Beaverley est accessible, je privilégierai une approche par le nord afin de rester éloigné de l'aéroport de Prince George et pour éviter le survol de la ville par la même occasion. Ma navigation sera donc composée d'un 4e point de report (WP4), qui se situe à la verticale 3700 ft de la Pilot Mountain, 11 NM au nord de ma destination.
+If Beaverley Airstrip is accessible, I'll favor an approach from the north in order to stay clear of Prince George Airport and avoid flying over the city at the same time. My navigation will therefore include a fourth waypoint (WP4), located overhead Pilot Mountain at 3,700 ft, 11 NM north of my destination.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/7.jpg)
 
 <br>
-## LE VOL
-le 19 septembre 2026
+## THE FLIGHT
+September 19, 2026
 
-Le bilan météo de la mi-journée est positif, les prévisions de Windy annoncent un ciel dégagé tout au long du trajet, du moins aucune couverture nuageuse au FL105 ou en dessous. Pas de précipitions non plus.
-Le vent quant à lui devrait être assez soutenue au FL105, avec 30 kts au départ, faiblissant au fil du vol avec une provenance du sud-ouest. C'est donc un vent de face que j'aurais, qui n'avantage pas ma vitesse sol, mais le vol étant relativement court, ça ne m'embête pas plus que ça :
+the midday weather assessment is positive. Windy is forecasting clear skies throughout the entire route, with no significant cloud cover at FL105 or below. No precipitation either.
+The wind, however, is expected to be fairly strong at FL105, starting at 30 knots and gradually weakening throughout the flight, coming from the southwest. So, I'll have a headwind, which obviously won't help my groundspeed. But since the flight is relatively short, I'm not too worried about it:
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/8.jpg)
 <span class="small-note"><em>© Windy</em></span>
@@ -82,32 +82,32 @@ Le vent quant à lui devrait être assez soutenue au FL105, avec 30 kts au dépa
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/START.gif)
 
-Ma prévol effectuée, je grimpe dans l'appareil et déroule la checklist jusqu'au démarrage moteur. Les pressions sont dans le vert, l'Avionic Master sur ON, la radio et le transpondeur aussi. Ma machine est configurée, prête à rouler. La piste 25 est en service. Mon temps de roulage jusqu'au point d'arrêt étant faible, je laisse le moteur chauffer tranquilement au parking. Heure block : 20:10 UTC.
-<br>
-Roulage, essais moteur, briefing et déjà je m'aligne piste 25. Décollage vent dans l'axe, suivi d'un léger virage par la gauche après le passage des 1000 ft AGL.
+Preflight complete, I climb into the aircraft and run through the checklist all the way to engine start. Oil pressure and temperatures are in the green, the Avionics Master is ON, and so are the radio and transponder. The aircraft is configured and ready to taxi. Runway 25 is in use. Since my taxi time to the holding point will be short, I let the engine warm up properly while still parked.  Block time: 20:10 UTC.
+
+Taxiing, engine run-up, briefing, and I'm already lined up on Runway 25. Takeoff with the wind straight down the runway, followed by a gentle left turn after passing 1,000 ft AGL.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/TAKEOFF.gif)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/12.jpg)
 
-Durant toute la première partie du vol je garderai visuel sur la Wapiti River, jusqu'à mon WP2 le Wapiti Lake, comme expliqué ci-dessus.
+Throughout the first part of the flight, I'll keep the Wapiti River in sight all the way to WP2, Wapiti Lake, as explained before.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/13.jpg)
 
-La montée est relativement longue, 10 minutes environ. J'affiche plein gaz côté pression d'admission, soit 26.6 inHg au sol pour finir à 19.9 inHG en croisière à 10500 ft (plein gaz). Le régime est calé à 2400 tr/min, ce qui me donne environ 60% de puissance pour une consommation de 15 GAL/H.
-Dans un soucis d'optimisation, je tente de réduire ma consommation en montée pour ne pas emplafonner mes prévisions. Mais en appauvrissant le mélange, la combustion devient plus chaude, ce qui à pour conséquence d'augmenter la température d'EGT (Engine Gas Temperature) puis, avec un peu d'inertie, la température de cylindre (CHT).
-Heureusement que le Comanche est équipé d'un Engine Monitor (JPI EDM 830) qui m'a permis de détecter rapidement ce phénomène au niveau du cylindre 5, dont la CHT a dépassé sur un court instant les limites constructeurs. L'enrichissement du mélange à permis quasi instantanément de retrouver des valeurs de CHT convenable.
-Le moteur du PA24-250 est un Lycoming O-540, 6 cylindres à plat de 250 cv refroidi par air. Les cylindres 5 et 6 sont justement les plus éloignées de l'entrée d'air de l'avion. Ce sont naturellement ces cylindres qui chauffent le plus.
+The climb is relatively long, around 10 minutes. I use full throttle, with 26,6 inHg of manifold pressure at QNH, eventually settling at 19,9 inHg in cruise at 10,500 ft, still at full throttle. The engine is set to 2,400 RPM, giving me approximately 60% power and a fuel burn of 15 GAL/h.
+In an effort to optimize the flight, I try to reduce my fuel consumption during the climb so I don't exceed my estimates. However, leaning the mixture makes the combustion hotter, which increases EGT (Exhaust Gas Temperature) and, with a little delay, cylinder head temperature (CHT).
+Fortunately, the Comanche is equipped with an engine monitor, the JPI EDM 830, which allowed me to quickly detect the issue on cylinder #5. Its CHT briefly exceeded the manufacturer's limits. Enriching the mixture brought the CHT back to acceptable values almost immediately.
+The PA24-250 is powered by a Lycoming O-540, a six-cylinder, air-cooled, 250 hp horizontally opposed engine. Cylinder #5 and #6 are the furthest away from the aircraft's air inlet. Naturally, these are the cylinders that tend to run the hottest.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/135.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/14.jpg)
 
-Plus peur que de mal donc, après action corrective, les températures sont rentrées dans leurs plages normales de fonctionnement.
+So, more of a scare than a real problem. After taking corrective action, the temperatures returned to their normal operating ranges.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/15.jpg)
 
-Au premier point de report (WP1), les rocheuses sont déjà bien visibles !
+At the first waypoint (WP1), the Rocky Mountains are already clearly visible!
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/16.jpg)
 
@@ -117,7 +117,7 @@ Au premier point de report (WP1), les rocheuses sont déjà bien visibles !
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/INFLIGHT.gif)
 
-D'un point de vue géographique et en simplifiant un peu, les Rocheuses sont orientées nord/sud. Le vent provenant du sud-ouest, j'avais peur de subir quelques turbulences lors du survol du massif mais c'est finalement un air plutôt calme que j'ai rencontré. Rien de mieux pour pouvoir "sortir" la tête de l'avion et profiter un peu plus du paysage.
+Geographically speaking, and simplifying things a little, the Rocky Mountains run roughly north to south. With the wind coming from the southwest, I was expecting to encounter some turbulence while crossing the range, but the air turned out to be surprisingly smooth. Nothing better than being able to "stick my head out of the airplane" and enjoy the scenery a little more.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/19.jpg)
 
@@ -127,46 +127,46 @@ D'un point de vue géographique et en simplifiant un peu, les Rocheuses sont ori
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/21.jpg)
 
-Le Lower Blue Lake visible sur ma droite.
+Lower Blue Lake is visible on my right. The Upper is hidden by my wing.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/22.jpg)
 
-Et sur ma gauche la McGregor River que je vais suivre jusqu'à mon point de report numéro 3.
+And on my left, the McGregor River, which I'll follow all the way to waypoint 3.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/23.jpg)
 
-Mon WP3 est déjà visible, confluent de la McGregor River avec la Fraser River.
+WP3 is already visible: the confluence of the McGregor River and the Fraser River.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/24.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/25.jpg)
 
-Je longe par la rive droite l'Eaglet Lake, qui annonce mon arrivé sur Prince George.
+I follow the right-hand shore of Eaglet Lake, which marks my arrival near Prince George.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/INFLIGHT_03.gif)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/26.jpg)
 
-La petite montagne en face est mon WP4, la Pilot Mountain.
+The small mountain ahead is my WP4, Pilot Mountain.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/27.jpg)
 
-Passage au nord de Prince George avant de virer plein sud pour rejoindre le terrain de Beaverley.
+Passing north of Prince George before turning due south toward Beaverly Airstrip.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/28.jpg)
 
-Dernier virage pour la finale 25.
+Final turn for Runway 25.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/29.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/30.jpg)
 
-Le Comanche est parqué. Je peux déballer les affaires de camping. Le terrain est très calme, Prince George n'est pas très loin, mais il faudra obligatoirement prendre la voiture pour rejoindre le centre-ville, accessible via une gravel road.
+The Comanche is parked. Time to unpack the camping gear. The airfield is incredibly quiet. Prince George isn't far away, but I'll have to take a car to get into town, as the only access is via a gravel road.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/305.jpg)
 <span class="small-note"><em>© Google Maps</em></span>
 
-Une carcasse de Cessna 172 (je crois) vieillit tranquillement en bord de piste. 
+The wreck of a Cessna 172, I think, is slowly aging beside the runway.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/3005.jpg)
 <span class="small-note"><em>© Google Maps</em></span>
@@ -177,16 +177,17 @@ Une carcasse de Cessna 172 (je crois) vieillit tranquillement en bord de piste.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/33.jpg)
 
-Couché de soleil sur le terrain, je profite de mon premier atterrissage en Colombie-Britannique pour faire un petit bilan de mon voyage :
+Sunset over the airfield. I take the opportunity of my first landing in British Columbia to take stock of my journey so far:
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/335.jpg)
 
-J'ai passé les 2000 NM de distance parcourue et bientôt 16 heures de vol cumulées. Il me reste environ 1900 NM à parcourir, j'ai donc fait la moitié ! J'ai hâte de poursuivre cette aventure, les paysages devraient être tout autant magnifiques et il me tarde de pouvoir les survoler.
+I've now covered more than 2,000 NM and accumulated almost 16 hours of flight time. I have around 1,900 NM left to cover, which means I've made it halfway! I can't wait to continue this adventure. The scenery should be just as spectacular, and I'm really looking forward to flying over it.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/34.jpg)
 
-Dernière photo de mon super Comanche avant de faire dodo. Si j'ai l'occasion, je ferai un peu de stop demain pour rejoindre le centre-ville, j'ai repéré deux trois BBQ qui ont l'air pas trop mal !
+One last picture of my awesome Comanche before calling it a night. If I get the chance, I'll try to hitch a ride into town tomorrow. I spotted a couple of BBQ joints on Google Maps that look pretty good!
 
-Prochaine arrêt : La ville de Smithers, toujours en Colombie-Britannique.
+Next stop: the town of Smithers, still in British Columbia.
 
 See you next flight
+<img width="801" height="9388" alt="image" src="https://github.com/user-attachments/assets/444f13c1-892a-4fb8-81f0-4063be90523b" />
