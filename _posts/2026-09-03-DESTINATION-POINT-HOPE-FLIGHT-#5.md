@@ -10,17 +10,17 @@ published: true
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/1.jpg)
 
-Hier, j'ai effectué une nouvelle étape de mon long voyage vers Point Hope, en Alaska. J'ai franchi une nouvelle frontière provinciale et suis entré en Saskatchewan, avec un atterrissage à La Ronge.
+Yesterday, I completed another leg of my long journey to Point Hope, Alaska. I crossed another provincial border and entered Saskatchewan, landing in La Ronge.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/2.jpg)
 
-Contrairement au vol 04, celui-ci était plus court, avec seulement 127 NM à parcourir, effectués en 1h03. Tout s'est parfaitement déroulé pendant le vol. Les conditions météorologiques étaient bonnes, avec un fort vent arrière sur la majeure partie de la route.
+Unlike Flight #4, this one was much shorter, with only 127 NM to cover, completed in 1 hour and 3 minutes. Everything went perfectly during the flight. The weather conditions were good, with a strong tailwind along most of the route.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/3.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/5.jpg)
 
-Les paysages, comme toujours, étaient absolument magnifiques. Je n'ai pas vu beaucoup d'infrastructures ou de signes de civilisation au cours de ces trois derniers vols, et je peux clairement voir la différence entre l'est de l'Ontario et l'endroit où je me trouve maintenant, au coeur de la Saskatchewan. Et j'aime vraiment ça. La nature, cette sensation d'isolement… C'est exactement ce que je recherchais dans ce voyage vers "Nowhere" !
+The scenery, as always, was absolutely beautiful. I haven't seen much infrastructure or many signs of civilization over the past three flights, and I can clearly see the difference between eastern Ontario and where I am now, in the heart of Saskatchewan. And I really love it. The wilderness, that feeling of isolation... That's exactly what I was looking for on this journey to "Nowhere"!
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/4.jpg)
 
@@ -28,16 +28,16 @@ Les paysages, comme toujours, étaient absolument magnifiques. Je n'ai pas vu be
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/7.jpg)
 
-La Ronge est une toute petite ville, située sur la rive ouest du lac La Ronge. La route CanAm traverse la ville, mais il n'y a pas grand-chose d'autre à voir.
+La Ronge is a very small town located on the western shore of Lac La Ronge. The CanAm Highway runs through the town, but there isn't much else around.
 
-L'approche et l'atterrissage se sont bien déroulés, cependant, j'ai découvert un problème sur le mécanisme des volets de l'aile droite, qui s'est bloqué en position partiellement rentrée après l'atterrissage. Heureusement, les volets étaient complètement sortis et verrouillés pendant l'atterrissage, mais j'ai entendu un craquement lorsque j'ai essayé de les rentrer. J'ai réussi à effectuer la réparation sans difficulté. C'est dire du niveau de réalisme de ce PA24 d'A2A Simulation.
+The approach and landing went smoothly. However, I discovered a problem with the right-wing flap mechanism, which became stuck in a partially retracted position after landing. Fortunately, the flaps were fully extended and locked during the landing, but I heard a cracking sound when I tried to retract them. I managed to carry out the repair without any difficulty. That's just how realistic this PA-24 from A2A Simulations is.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/8.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_05/CONTENU/9.jpg)
 
-Prochaine étape : Fort McMurray, Alberta !
+Next stop: Fort McMurray, Alberta!
 
-Je suis vraiment impatient d'arriver enfin en Alberta. Je me rapproche maintenant des montagnes Rocheuses.
+I'm really looking forward to finally reaching Alberta. I'm getting closer and closer to the Rocky Mountains now.
 
 See you next flight
