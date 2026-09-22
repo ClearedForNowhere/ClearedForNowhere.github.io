@@ -10,23 +10,23 @@ published: true
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/1.jpg)
 
-Presque 3 heures de vol, depuis le lâcher des freins au départ jusqu'à l'arrêt du moteur à l'arrivée. On changement clairement de registre, surtout en régime de vol VFR et sans pilote auto. Heureusement, les paysages sont toujours absolument magnifiques, et c'est un vrai plaisir de regarder par les fenêtres.
+Almost three hours of flight time, from releasing the brakes at departure to shutting down the engine after landing. This was definitely a different kind of flight, especially flying VFR and without an autopilot. Fortunately, the scenery was still absolutely beautiful, and it was a real pleasure to look out the windows.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/2.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/3.jpg)
 
-Les conditions météorologiques étaient correctes, avec une couverture nuageuse variant rapidement de fragmentée à couverte tout au long du vol. La base des nuages ne dépassait jamais 4 000 ft et, surtout, j'avais un fort vent de face qui m'a considérablement ralenti et a allongé la durée du vol.
+The weather conditions were fairly good, with cloud cover rapidly changing from broken to overcast throughout the flight. The cloud bases never exceeded 4,000 ft and, more importantly, I had a strong headwind that significantly slowed me down and extended the flight time.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/4.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/5.jpg)
 
-J'ai fixé mon altitude de croisière à 2 500 ft, où le vent était plus faible. Malgré cela, ma vitesse de croisière dépassait à peine 135 noeuds, contre les 160 noeuds nominaux.
+I set my cruising altitude at 2,500 ft, where the wind was weaker. Even so, my cruise speed barely exceeded 135 knots, compared to the aircraft's nominal 160 knots.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/6.jpg)
 
-Ce que je retiens surtout de ce vol, c'est mon arrivée au-dessus du lac Winnipeg, puis le fait d'avoir suivi sa rive est, entouré par d'immenses forêts boréales, sacrés paysages ! J'ai finalement mis le cap sur Flin Flon pour les 30 dernières minutes de cette étape.
+What I’ll remember most from this flight is reaching Lake Winnipeg, then following its eastern shoreline, surrounded by immense boreal forests. What a landscape! I eventually turned toward Flin Flon for the final 30 minutes of the flight.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/7.jpg)
 
@@ -38,16 +38,16 @@ Ce que je retiens surtout de ce vol, c'est mon arrivée au-dessus du lac Winnipe
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/11.jpg)
 
-Il n'y avait pas de contrôle aérien à l'arrivée, j'ai donc, comme lors du dernier vol, effectué une intégration du circuit d'aérodrome par l'opposé du tour de piste en prenant une marge de 500 ft au-dessus de l'altitude de circuit, qui se trouve elle-même à 1000 ft de hauteur par rapport au terrain.
+There was no air traffic control on arrival, so, just like on the previous flight, I joined the traffic pattern from the opposite side of the circuit, maintaining a 500-ft margin above the circuit altitude, which itself was 1,000 ft above the airport elevation.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/12.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/13.jpg)
 
-La prochaine étape prévue sera La Ronge, sur les rives du lac du même nom. Une étape bien plus courte que celle-ci, avec seulement 127 NM à parcourir.
+The next planned leg will take me to La Ronge, on the shores of the lake of the same name. A much shorter leg than this one, with only 127 NM to cover.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_04/CONTENU/14.jpg)
 
-Les Rocky Mountains se rapprochent de plus en plus et j'ai vraiment hâte de pouvoir voler dans ce massif que j'affectionne particulièrement.
+The Rocky Mountains are getting closer and closer, and I’m really looking forward to finally flying through this mountain range, which I’m particularly fond of.
 
 See you next flight
