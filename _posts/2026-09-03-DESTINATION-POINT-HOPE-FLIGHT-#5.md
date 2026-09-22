@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #5"
-author: "Pierre IOZZOLI"
+author: "Cleared For Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_05/COVER/DPH_FLIGHT_05_COVER.jpg
@@ -41,5 +41,4 @@ Prochaine étape : Fort McMurray, Alberta !
 
 Je suis vraiment impatient d'arriver enfin en Alberta. Je me rapproche maintenant des montagnes Rocheuses.
 
-See you next flight,
-Cleared For Nowhere.
+See you next flight
