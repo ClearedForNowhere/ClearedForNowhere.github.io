@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, THE PROJECT"
-author: "Pierre IOZZOLI"
+author: "Cleared For Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope-the-project]
 cover: DPH_THE_PROJECT/HEADER/DESTINATION_POINT_HOPE_HEADER.jpg
@@ -46,5 +46,3 @@ je ne peux plus m'en passer !
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_THE_PROJECT/CONTENU/3.jpg)
 
 Alors, c’est parti, direction Point Hope !
-
-ClearedForNowhere.
