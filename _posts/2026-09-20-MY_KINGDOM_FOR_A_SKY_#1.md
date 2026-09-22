@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "MY KINGDOM FOR A SKY #1"
-author: {{ site.author }}
 categories: photography
 tags: [MKFAS]
 cover: MY_KINGDOM_FOR_A_SKY_01/COVER/MKFAS_01_COVER.jpg
