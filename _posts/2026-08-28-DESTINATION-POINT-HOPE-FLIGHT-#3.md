@@ -8,12 +8,12 @@ image: DPH_FLIGHT_03/HEADER/DPH_FLIGHT_03_HEADER.jpg
 published: true
 ---
 
-Vendredi dernier, j'ai mis le cap sur Red Lake, toujours en Ontario, ma dernière étape avant d'entrer au Manitoba.
-Et une fois encore, ce vol a été incroyable. Les paysages ont considérablement changé depuis le début de ce voyage et, cette fois, j'ai pu avoir l'occasion de survoler des centaines de lacs. Cette partie de l'Ontario est absolument magnifique.
+Last Friday, I headed for Red Lake, still in Ontario, my final stop before entering Manitoba.
+Once again, this was an incredible flight. The scenery has changed considerably since the beginning of this journey, and this time I had the opportunity to fly over hundreds of lakes. This part of Ontario is absolutely beautiful.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_03/CONTENU/1.jpg)
 
-Le vol a duré 1 h 37, ce qui en fait l'étape la plus courte de ce voyage jusqu'à présent. Les conditions météorologiques étaient, une fois encore, vraiment bonnes tout au long du vol, avec peu de vent et une première couche nuageuse fragmentée à 5000 ft. J'ai tout de même rencontré quelques averses localisées, mais rien qui n'ait perturbé le bon déroulement du vol.
+The flight lasted 1 hour and 37 minutes, making it the shortest leg of the journey so far. Once again, the weather conditions were really good throughout the flight, with little wind and the first broken cloud layer at 5,000 ft. I did encounter a few localized showers, but nothing that affected the flight.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_03/CONTENU/2.jpg)
 
@@ -21,17 +21,16 @@ Le vol a duré 1 h 37, ce qui en fait l'étape la plus courte de ce voyage jusqu
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_03/CONTENU/4.jpg)
 
-Il n'y avait pas de contrôle aérien à Red Lake, j'ai donc intégré le circuit d'aérodrome suivant les règles établis pas la documentation aéronautique canadienne. Je me suis rapproché du terrain par l'opposé du circuit à 2800 ft AMSL (l'altitude du terrain étant de 1260 ft), avant de rejoindre le vent arrière main droite à 2300 ft AMSL pour la piste 26. De cette façon, je garde tout au long de mon intégration un visuel sur le circuit et sur le terrain, me permettant de visualiser si un ou plusieurs autres appareils se trouvent dans la boucle. Cela me permet aussi de visualiser l'état du terrain ainsi que de vérifier la direction et force du vent grâce à la manche à air.
+There was no air traffic control at Red Lake, so I joined the traffic pattern in accordance with the procedures established in the Canadian aeronautical publications. I approached the airport from the opposite side of the circuit at 2,800 ft AMSL, with the airport elevation at 1,260 ft, before joining the right-hand downwind at 2,300 ft AMSL for Runway 26. This allowed me to keep the airport and the traffic pattern in sight throughout my arrival, making it easier to spot any other aircraft that might be in the circuit. It also gave me a good view of the runway and airport conditions, as well as allowing me to check the wind direction and strength using the windsock.
 
-L'atterrissage s'est déroulé sans encombre, malgré un petit 7 kts de vent plein travers.
+The landing went smoothly, despite a small 7-knot direct crosswind.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_03/CONTENU/5.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_03/CONTENU/6.jpg)
 
-J'ai laissé le Comanche stationné à Red Lake, sur cet aérodrome entouré de magnifiques lacs et sous un grand ciel bleu, prêt pour le prochain vol.
+I left the Comanche parked at Red Lake, on this airfield surrounded by beautiful lakes and beneath a wide blue sky, ready for the next flight.
 
-La prochaine étape sera plus longue, puisque je prévois de parcourir 377 NM jusqu'à Flin Flon, au Manitoba.
+The next leg will be longer, as I’m planning to cover 377 NM to Flin Flon, Manitoba.
 
 See you next flight
-
