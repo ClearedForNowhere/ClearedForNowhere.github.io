@@ -1,7 +1,14 @@
 <header class="site-header">
-  <h3 class="site-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
-  </h3>
+<h3 class="site-title">
+  <a href="{{ site.github.url }}/">
+    <img
+      class="site-title-logo"
+      src="{{ site.github.url }}/assets/img/LOGO/LOGO.png"
+      alt="Cleared For Nowhere logo"
+    >
+    {{ site.title }}
+  </a>
+</h3>
 
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
