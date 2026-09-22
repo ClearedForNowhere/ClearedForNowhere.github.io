@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "CLEARED FOR NOWHERE"
-description:	       "CLEARED FOR NOWHERE est un projet personnel autour de mes passions pour l’aviation, la simulation de vol et la photographie."
+description:	       "CLEARED FOR NOWHERE is a personal project built around my passions for aviation, flight simulation, and photography."
 author:              "CLEARED FOR NOWHERE"
 
 defaults:
