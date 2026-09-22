@@ -8,96 +8,92 @@ image: DPH_FLIGHT_07/HEADER/DPH_FLIGHT_07_HEADER.jpg
 published: true
 ---
 
-## PREPARAITON DE LA NAVIGATION
-10 septembre 2026
+## NAVIGATION PREPARATION
+September 10th, 2026
 
 <br>
 
-Pour cette 7e étape, c’est un vol de 278 NM qui m’attends. Relativement long donc. Sans vent, il me faudra 1h45 pour rejoindre Grande Prairie, et cela sans compter la procédure d’arrivée.
+For this seventh leg, I have 278 NM ahead of me. A relatively long flight, then. With no wind, it would take me 1 hour and 45 minutes to reach Grande Prairie, not including the arrival procedure.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/1.jpg)
 
-Je commence donc à prépare cette nouvelle étape. J’ai choisi quelques waypoint plutôt facile à dicerner en vol (rivière, lac, ville). Je prévois aussi de survoler quelques petits terrains au cas où j’aurais besoin de me dérouter sans urgence durant le vol. Celui-ci se décompose donc en 5 branches d’une vingtaine de minute environ chacune. Cela me permettra, entre autres, de faire un check carburant et de recaler le directionnel comme j’ai l’habitude le faire au passage de chaque waypoint en utilisant un moyen mnémotechnique que tout pilote apprend durant sa formation.
+I start preparing this new leg by selecting a few waypoints that should be easy to identify from the air, such as rivers, lakes, and towns. I’m also planning to fly over a few small airfields in case I need to divert without an emergency during the flight. The route is therefore divided into five legs of roughly twenty minutes each. This will allow me, among other things, to check my fuel and reset the directional gyro, as I normally do when passing each waypoint, using a mnemonic that every pilot learns during their training.
 
-De mon côté, j’ai retenu TCRAMET :
+For my part, I use TCRAMET:
 
--	T : Top : C'est le "stop chrono", cela me permet de voir si mes estimations de temps de vol par branche sont bonnes ou pas. Je peux les recaler au besoin, durant le vol.
--	C : Cap / Compas : Le directionnel d'un avion se dérègle de quelques degrés au fil du temps (plusieurs degrés par heure). Si je l'utilise comme moyen de navigation, celui-ci doit être recalé régulièrement. Pour cela, je le compare avec mon compas, qui lui indiquera toujours le nord magnétique. Ce recalage est donc fait à chaque passage de waypoint.
--	R : Radio : Je fais une passe sur les prochaines fréquences à afficher et les prochains contrôles à contacter.
--	A : Altitude : Je check mon altitude et recale mon altimètre avec le QNH de ma position si celui-ci est accessible.
--	M : Moteur : je check mes paramètres moteurs ainsi que les différentes températures (huile, eau,) ainsi que les pressions (huile, essence).
--	E : Estime / Essence : Je check la quantité d'essence qui se trouve dans les réservoirs. En fonction, je calcule ma consommation depuis le début du vol et je la compare avec la quantité restante afin de vérifier si je ne me suis pas trompé dans mes calculs de conso. Je vérifie que la quantité d'essence restante dans les réservoirs est compatible avec le temps de vol restant jusqu'à destination. Si l'appareil le permet, je peux switcher de réservoir pour optimiser la position de mon centre de gravité.
--	T : Température : Je check ma température extérieure et température moteur afin de prévenir d'un potentiel givrage carburateur. Si il y a un doute, je tire ma réchauffe carburateur.
+T: Top: This is my “stopwatch check,” allowing me to see whether my estimated flight time for each leg is accurate or not. I can adjust my estimates if necessary during the flight.
+C: Cap / Compass: An aircraft’s directional gyro gradually drifts by a few degrees over time, sometimes several degrees per hour. If I use it as a navigation aid, it needs to be reset regularly. To do this, I compare it with my magnetic compass, which will always indicate magnetic north. I therefore reset the directional gyro every time I pass a waypoint.
+R: Radio: I review the next frequencies to tune and the next ATC units I may need to contact.
+A: Altitude: I check my altitude and reset the altimeter using the QNH for my current position, if it is available.
+M: Engine (Moteur): I check my engine parameters, as well as the various temperatures (oil, coolant) and pressures (oil, fuel).
+E: Estimate / Fuel: I check the amount of fuel remaining in the tanks. Based on that, I calculate my fuel consumption since the beginning of the flight and compare it with the remaining quantity to make sure my consumption calculations were correct. I also check that the amount of fuel remaining is compatible with the remaining flight time to destination. If the aircraft allows it, I can switch tanks to optimize the position of the center of gravity.
+T: Temperature: I check the outside air temperature and engine temperature to assess the potential risk of carburetor icing. If there is any doubt, I apply carburetor heat.
 
-A chaque passage d’un point de repère ou d’un waypoint, je fais une passe sur tout ce que je viens de citer, et cela permet, de façon régulière, de faire un check sur les principaux paramètres à surveiller / afficher lors de la navigation.
+Every time I pass a reference point or waypoint, I run through everything listed above. This gives me a regular check of the main parameters that need to be monitored or displayed during navigation.
 
-Retour à la préparation, je prévois donc un départ de l’Aéroport International de Fort McMurray (CYMM). Après le départ, je prendrai un cap 243° en direction de mon premier waypoint. Durant cette première branche, je ferai principalement du cheminement en longeant la rivière Athabasca. Mon WP1 est un coude naturel de la rivière, celle-ci prenant une direction vers le sud-est. Au passage du WP1, j’afficherai ensuite un cap 219 en direction de l’aérodrome de Wabasca (CEE5).
+Back to the preparation: I’m planning to depart from Fort McMurray International Airport (CYMM). After departure, I’ll take a heading of 243° toward my first waypoint. During this first leg, I’ll mainly navigate by pilotage, following the Athabasca River. WP1 is a natural bend in the river, where it turns toward the southeast. Once I pass WP1, I’ll set a heading of 219° toward Wabasca Airport (CEE5).
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/2.jpg)
 
-Celui-ci est situé à 1827 ft au-dessus du niveau de la mer, je prévois donc une verticale à 3300 ft AMSL minimum (Hauteur du terrain + 1000 ft hauteur du circuit d’aérodrome + 500 ft de marge). C’est mon premier terrain de déroutement. Pas de NOTAM à l’instant t. RAS aussi côté carte d’aérodrome.
+The airport is located at 1,827 ft above sea level, so I’m planning to overfly it at a minimum of 3,300 ft AMSL (airport elevation + 1,000 ft circuit height + 500 ft margin). This will be my first diversion airport. No NOTAMs at the moment. Nothing to report on the airport chart either.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/3.jpg)
 
-Mon prochain WP sera le Lac Utikuma. Relativement grand (presque 5 kilomètres de largeur), il sera visible de loin.
-La prochaine étape sera située quelques 56 NM plus à l’ouest, et sera un passage vertical de l’aérodrome de Donnelly (CFM4). Altitude du terrain : 1950 ft. La verticale se fera donc à 3500 ft en suivant toujours la même logique. Pas de NOTAM non plus à l’instant t, RAS sur la carte.
+My next waypoint will be Utikuma Lake. It is relatively large, almost 5 kilometers wide, so it should be visible from a long way away.
+The next waypoint will be about 56 NM farther west, where I’ll overfly Donnelly Airport (CFM4). Airport elevation: 1,950 ft. The overflight will therefore be at 3,500 ft, following the same logic. No NOTAMs at the moment either, and nothing to report on the airport chart.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/4.jpg)
 
-Et pour finir, je prendrai un cap 228 pour rejoindre mon terrain d’arrivé, l’aérodrome de Grande Prairie. La carte indique une attention particulière afin d’éviter de survoler le Flyingshot Lake, 2 NM au sud du terrain car c’est un lieu de nidation pour le Cygne Trompette. Une autorisation à l’avance pour l’utilisation des parkings est obligatoire avant l’arrivée. Tout cela sera à prendre en compte lors du briefing d’arrivée et avant le départ.
+Finally, I’ll take a heading of 228° toward my destination airport, Grande Prairie. The chart specifically warns pilots to avoid overflying Flyingshot Lake, 2 NM south of the airport, as it is a nesting area for Trumpeter Swans. Prior authorization is also required to use the parking areas before arrival. All of this will need to be taken into account during the arrival briefing and before departure.
 
-J’ai choisi une altitude de croisière de 4500 ft AMSL afin de ne pas avoir à me soucier du survol des villes et villages, ainsi que les passages à la verticale des terrains sélectionnés. Je n’ai cependant pas repéré d’obstacle sur le trajet, et les zones survolées restent relativement plates, sans relief remarquable. Mon altitude mini de vol sera de 2500 ft en me basant sur le point culminant pour chaque branche, et en ajoutant 500 ft. Cette altitude mini de vol m’obligera cependant à bien contourner les villes et villages ainsi que les aérodromes s’il me venait à m’y établir. Celle-ci sera utilisée dans le cas de condition météo défavorable (plafond nuageux, vent défavorable).
+I’ve chosen a cruising altitude of 4,500 ft AMSL so I won’t have to worry about overflying towns and villages, as well as the vertical passages over the selected airfields. I haven’t identified any obstacles along the route, and the areas I’ll be flying over are relatively flat, with no significant terrain. My minimum flight altitude will be 2,500 ft, based on the highest point along each leg, with an additional 500 ft margin. However, this minimum altitude means I’ll have to carefully avoid towns, villages, and airfields if I ever need to fly at that altitude. I’ll use it in case of unfavorable weather conditions, such as a low cloud ceiling or unfavorable winds.
 
-Le « Fuel and Payload » pour ce vol :
+The “Fuel and Payload” for this flight:
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/5.jpg)
 
-Comme à chaque vol de ce périple, celui-ci se ressemble : Masse à vide de l’avion de 1690 livres (767 kg environ), 360 livres (163 kg) de 100LL pour un plein complet, 170 livres (77 kg) pour le pilote et 100 livres (45 kg) de bagage.
-Je prévois de faire le plein à chaque étape. En général je le fais après l’atterrissage pour que la machine soit prête au prochain vol et afin aussi de limiter la condensation dans les réservoirs, comme le Comanche dort en général dehors et qu’il peut faire froid et humide la nuit dans ces régions en ce moment.
+As on every flight of this journey, the setup remains the same: an aircraft empty weight of 1,690 pounds (around 767 kg), 360 pounds (163 kg) of 100LL for a full tank load, 170 pounds (77 kg) for the pilot, and 100 pounds (45 kg) of baggage.
+I plan to refuel at every stop. I usually do it after landing so the aircraft is ready for the next flight, and also to limit condensation in the tanks, as the Comanche is generally parked outside and the nights in these regions can be cold and humid at this time of year.
 
-Il ne me reste plus qu’à vérifier la météo pour trouver un créneau « volable » ces prochains jours. 
-
-## LE JOUR J
-11 septembre 2026
+All that remains is to check the weather and find a suitable “flyable” window over the next few days.
 
 <br>
 
-Un check météo dans l’après-midi me confirme que les conditions sont favorables pour le vol de ce soir.
-Pour rappel, je vol toujours aux alentours de 1900 ZULU, ce qui donne 1300 LOCAL pour l’Alberta.
+## THE FLIGHT
+September 11th, 2026
+
+An afternoon weather check confirms that conditions are favorable for tonight’s flight.
+As a reminder, I usually fly at around 1900 ZULU, which corresponds to 1300 LOCAL in Alberta.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/6.png)
 
-Les conditions météos sont bonnes sur l’ensemble du vol. Pour ce qui est du vent, celui-ci sera de l’ouest pour 10-15 knots en moyenne sur chaque branche. La base des nuages sera elle aussi compatible de mon altitude de croisière avec un plafond mini relevé à 5600 ft sur l’avant dernière branche. Le ciel se dégage à l’arrivée. Pas de précipitation et une visibilité supérieure à 10 km sur la totalité du parcours.
+The weather conditions are good throughout the entire flight. The wind will be from the west at an average of 10–15 knots on each leg. The cloud bases will also be compatible with my cruising altitude, with a minimum ceiling of 5,600 ft on the second-to-last leg.
 
-Un dernier check des NOTAM ne donne aucune contrindication pour le vol de ce soir.
+The skies will clear as I approach the destination. No precipitation and visibility above 10 km throughout the entire route.
 
-Rendez-vous sur le tarmac dans 5 heures !
+One final NOTAM check shows no restrictions preventing tonight’s flight.
 
-## LE VOL
+I joined my aircraft on the Fort McMurray apron. As expected, the weather conditions are good and suitable for VFR.
 
-<br>
+The departure METAR: CYMM 121919Z AUTO 26006KT 9SM FEW032 SCT043 OVC055 10/03 A3005 RMK SLP191
 
-J’ai rejoint ma machine sur le tarmac de Fort McMurray. Comme prévu, les conditions météos sont bonnes et compatibles VFR. 
+It reports a few clouds at 3,200 ft, but they will dissipate before I even take off.
 
-Le METAR au départ : CYMM 121919Z AUTO 26006KT 9SM FEW032 SCT043 OVC055 10/03 A3005 RMK SLP191
-
-Celui-ci annonce quelques nuages à 3200 ft, mais ceux-ci s’estomperont avant même que je décolle. 
-
-Je fais le tour de ma machine, RAS. Le démarrage du moteur se fait dans la foulée. Tout est au vert, celui-ci tourne rond, on peut y aller.
+I perform my walk-around, and everything looks good. I start the engine shortly afterward. All the gauges are in the green, the engine is running smoothly, and we’re good to go.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/7.jpg)
 
-La 26 est en service. Depuis l’Apron 1, je roule taxiway Hotel puis Juliett avant de rejoindre le point d’arrêt 26.
-Les essais moteurs sont concluants, je configure le Comanche pour le décollage et fait mon briefing départ. Celui-ci est simple, outre les actions en cas d’avarie ou panne moteur, le départ du terrain se fera en effectuant un léger virage par la gauche au passage des 1000 ft AGL, après avoir rétracter les volets et couper la pompe et phares d’atterrissage.
-Le cap à prendre sera le 245, pour une route au 243.
+Runway 26 is in use. From Apron 1, I taxi via Taxiway Hotel, then Juliett, before reaching the Runway 26 holding point.
+Apart from the actions required in the event of an aircraft malfunction or engine failure, the departure procedure is straightforward: I’ll make a slight left turn passing 1,000 ft AGL, after retracting the flaps and switching off the fuel pump and landing lights.
+The heading to fly will be 245°, for a planned track of 243°.
 
-Alignement et décollage, le vent est faible et dans l’axe, le Comanche décolle relativement court, sans besoin de se battre pour maintenir l’axe. C’est parti !
+Lined up and ready for takeoff, the wind is light and almost directly down the runway. The Comanche gets airborne fairly quickly, without requiring much effort to maintain the centerline. Here we go!
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/8.jpg)
 
-Comme prévu, je longe la rivière Athabasca sur cette première branche, et déjà les paysages sont magnifiques. Les arbres jaunissent au fil du temps, j’arrive à percevoir leur évolution à chaque vol.
+As planned, I follow the Athabasca River during this first leg, and the scenery is already beautiful. The trees are gradually turning yellow, and I can actually see the change from one flight to the next.
 
-A 4500 ft, j’affiche 160 kts au badin pour 146 kts sol.
+At 4,500 ft, I’m showing 160 knots on the airspeed indicator, with a groundspeed of 146 knots.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/9.jpg)
 
@@ -107,29 +103,29 @@ A 4500 ft, j’affiche 160 kts au badin pour 146 kts sol.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/12.jpg)
 
-Premier waypoint passé, le coude de la rivière Athabasca. Je poursuis ma navigation en prenant le cap 222 direction l’aérodrome de Wabasca à 46 NM, ou 18 minutes de vol.
+First waypoint passed: the bend in the Athabasca River. I continue my navigation on a heading of 222° toward Wabasca Airport, 46 NM away, or around 18 minutes of flight time.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/13.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/24.gif)
 
-J’ai pris l’habitude d’afficher toujours les mêmes paramètres moteurs en vol, hors condition spécifique : 22 inHG et 2400 RPM.
-Ces paramètres me donnent environ 70% de la puissance, avec une consommation, avion mixturé, d’environ 15 GAL/H. 
-Le terrain est facile à repérer puisqu’il se situe au milieu du Lac Wabasca avec une bande "sèche" au centre donnant l’impression de deux lacs bien distincts.
+I’ve gotten into the habit of using the same engine settings throughout the flight, except when specific conditions require otherwise: 22 inHg and 2,400 RPM.
+These settings give me around 70% power, with a fuel consumption of approximately 15 GAL/H with the mixture leaned.
+The airport is easy to spot, as it is located in the middle of Wabasca Lake, with a “dry” strip running through the center, giving the impression of two separate lakes.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/14.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/15.jpg)
 
-Le vol se poursuit sans difficulté, le WP2 est passé, c’est un lac avec une presqu’ile au nord de celui-ci.
+The flight continues without difficulty. WP2 is now behind me, marked by a lake with a peninsula extending from its northern shore.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/16.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/17.jpg)
 
-Puis je fini par rejoindre le dernier point de report, l’aérodrome de Donnelly qui se trouve à quelques nautiques à l’ouest de deux petits lacs. Assez facile à repérer en vol. La prochaine étape sera notre aérodrome de destination, Grande Prairie.
+I eventually reach the final waypoint, Donnelly Airport, located a few nautical miles west of two small lakes. It is fairly easy to spot from the air. The next stop will be our destination airport: Grande Prairie.
 
-A partir de là, les paysages commencent à changer drastiquement. Les grandes forêts boréales laissent place à d’immenses champs carrés de culture, déstructurés seulement par quelques vallons de rivière. C'est d'ailleurs de ces grandes étendues qu'est tiré le nom de "Grande Prairie". En tout cas, c’est tout aussi beau vu du ciel.
+From here, the landscape starts to change dramatically. The vast boreal forests give way to huge square agricultural fields, broken up only by a few river valleys. This is actually where the name “Grande Prairie” comes from. In any case, it is just as beautiful from the air.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/18.jpg)
 
@@ -137,10 +133,10 @@ A partir de là, les paysages commencent à changer drastiquement. Les grandes f
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/20.jpg)
 
-J’ai enfin visuel sur la ville de Grande Prairie. Le terrain est 1 NM à l’ouest de celle-ci. Le vent est faible, je choisis spontanément la piste 30 qui est la plus longue et je prévois une intégration directement en début de base main droite entrant directement à l’altitude du circuit d’aérodrome. Je pense aussi à ne pas survoler le Flyingshot Lake plus au sud.
-Celui-ci étant contrôlé, je peux facilement imaginer que l’ATC m’aurait donné cette option là si le traffic était faible dans la boucle.
+I finally have Grande Prairie in sight. The airport is 1 NM west of the city. The wind is light, so I spontaneously choose Runway 30, which is the longest runway, and plan to join the traffic pattern directly on the beginning of the right-hand base leg, entering at circuit altitude. I also make sure not to overfly Flyingshot Lake farther south.
+Since the airport is controlled, I can easily imagine ATC giving me this option if traffic in the circuit was light.
 
-J’effectue un survol de la ville, même si, après réflexion, j’aurais pu la contourner par le sud en effectuant une (très) longue final piste 30.
+I fly over the city, although, looking back, I could have avoided it by flying south and making a very long final approach for Runway 30.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/21.jpg)
 
@@ -148,12 +144,12 @@ J’effectue un survol de la ville, même si, après réflexion, j’aurais pu l
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_07/CONTENU/23.jpg)
 
-Posé, pas cassé. 
-Je fais demi-tour pour rapidement rejoindre le taxiway Bravo, puis Charlie pour me garer à l’Apron 2.
+Landed, no damage.
+I turn around and quickly taxi to Taxiway Bravo, then Charlie, before parking on Apron 2.
 
-L’heure block d’arrivée est notée. 2 heures 13 minutes de vol.
-29 Gal de 100LL consommé soit la moitié de l’autonomie du Comanche dans cette configuration. 
+The arrival block time is recorded: 2 hours and 13 minutes of flight time.
+I burned 29 gallons of 100LL, which is half of the Comanche’s endurance in this configuration.
 
-Prochaine étape : Prince George. Celle-ci, je l’attends avec impatience, car elle marque le passage dans une nouvelle province Canadienne, la Colombie Britannique. Mais surtout, je rejoindrai et traverserai une partie des Rocky Mountains, incroyable massif montagneux qui s’étend du nord du Canada jusqu’à au sud des USA, non-loin de la frontière avec le Mexique.
+Next stop: Prince George. I’m really looking forward to this one, as it will mark my entry into a new Canadian province: British Columbia. But more importantly, I’ll be reaching and crossing part of the Rocky Mountains, an incredible mountain range stretching from northern Canada all the way down into the southern United States, not far from the Mexican border.
 
 See you next flight
