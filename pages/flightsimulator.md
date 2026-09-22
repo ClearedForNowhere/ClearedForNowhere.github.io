@@ -2,9 +2,10 @@
 layout: page
 title: FLIGHT SIMULATOR
 permalink: /flightsimulator
-description: Une collection de vols virtuels, de voyages au long cours et d’histoires imaginées autour de la simulation aérienne.
-Ces récits sont entièrement fictifs et racontent la vie d’un pilote virtuel au fil de ses voyages dans Microsoft Flight Simulator. J’essaie de pousser l’immersion et le réalisme aussi loin que possible, en imaginant tout ce qui peut se passer autour d’un vol : préparer la navigation, gérer le carburant, trouver un endroit où passer la nuit, partir manger en ville, installer son matériel de camping ou simplement profiter de l’endroit où l’on vient d’atterrir.
-Tout cela est évidemment une partie de la fiction et sert avant tout à donner vie aux voyages et à créer une histoire autour du vol.
+description:>-
+A collection of virtual flights, long-distance journeys, and imagined stories built around flight simulation.
+These stories are entirely fictional and follow the life of a virtual pilot as he travels from one destination to another in Microsoft Flight Simulator. I try to take immersion and realism as far as possible, imagining everything that could happen around a flight: planning the navigation, managing fuel, finding somewhere to spend the night, heading into town for a meal, setting up camping gear, or simply taking the time to enjoy the place where I have just landed.
+All of this is, of course, part of the fiction. The goal is simply to bring these journeys to life and create a story around each flight.
 ---
 
 {% for post in site.categories.flightsimulator %}
