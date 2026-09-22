@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MY KINGDOM FOR A SKY #1"
-author: "Pierre IOZZOLI"
+author: "Cleared for Nowhere"
 categories: photography
 tags: [MKFAS]
 cover: MY_KINGDOM_FOR_A_SKY_01/COVER/MKFAS_01_COVER.jpg
@@ -29,4 +29,4 @@ Stratocumulus au couché de soleil.
 ![MKFAS]({{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_01/CONTENU/5.jpg)
 ATR 72 de la compagnie HOP! peu de temps après son décollage d'Orly.
 
-Cleared For Nowhere.
+Cleared For Nowhere
