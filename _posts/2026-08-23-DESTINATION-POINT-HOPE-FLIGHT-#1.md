@@ -8,37 +8,37 @@ image: DPH_FLIGHT_01/HEADER/DPH_FLIGHT_01_HEADER.jpg
 published: true
 ---
 
-Et c’est reparti, je viens de terminer la préparation de cette première étape de ce long voyage qui m’emmènera jusqu’à Point Hope en Alaska.
-Il y en aura 17 autres comme celle-ci.
+And here we go again! I've just finished preparing the first leg of this long journey that will take me all the way to Point Hope, Alaska.
+There will be 17 more legs like this one.
 
-Je prévois de rejoindre l’aérodrome de Sault-Sainte-Marie, toujours en Ontario. Le terrain se situe à quelques nautiques au nord-ouest du lac Huron.
-Cette navigation sera longue de 289 NM, ou 1h50 de vol, et me fera passer principalement au bord central du Lac Huron, sur la bande de terre qui remonte vers le nord. Cela augure de très beaux paysages survolés !
+I'm planning to reach Sault Ste. Marie Airport, still in Ontario. The airport is located a few nautical miles northwest of Lake Huron.
+This flight will cover 289 NM, or around 1 hour and 50 minutes of flight time. I'll be flying mainly along the central part of Lake Huron, following the strip of land stretching northward. This should make for some beautiful scenery along the way!
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_01/CONTENU/1.jpg)
 
-Côté Fuel & Payload, celui-ci sera sensiblement le même à chaque navigation : 
+As for Fuel & Payload, it will remain roughly the same for each leg:
 
--	Masse à vide de l’avion : 1690 lires
--	Masse pour 60 gallons de 100LL : 360 livres
--	Masse du pilote : 180 livres
--	Masse des bagages : 100 livres
+Aircraft empty weight: 1,690 lbs
+Weight of 60 gallons of 100LL: 360 lbs
+Pilot weight: 180 lbs
+Baggage weight: 100 lbs
 
-La masse maximale du Comanche est de 2800 livres. La somme de ce que j’ai cité juste au-dessus est de 2330 livres.
-Je garderai donc une marge plus qu’acceptable avec la masse maximale de l’appareil.
-Le centrage est bon et le restera si je reste dans cette configuration, ce qui sera souvent voire tout le temps le cas car je prévois d’effectuer un plein complet avant chaque vol.
+The Comanche’s maximum gross weight is 2,800 lbs. The total of everything listed above comes to 2,330 lbs.
+That leaves me with a more than acceptable margin below the aircraft’s maximum gross weight.
+The weight and balance are good and should remain within limits as long as I keep this configuration. This will often, if not always, be the case, as I plan to start each flight with full fuel tanks.
 
-Mixturé et paramètres moteur affichés, le Comanche consomme 15 Gal/h, ce qui me donne une autonomie de 4 heures.
+With the mixture leaned and the engine parameters set, the Comanche burns 15 gal/h, giving me an endurance of around 4 hours.
 
-Un rapide bilan météo dans la journée n’est pas très rassurant, même si les conditions sont établies pour du VFR, elles ne sont pas optimales. Beaucoup d’averse de pluie et des rafales de vent à l’arrivée.
-J’acte quand même le vol et prévois quelques terrains de déroutement au cas où l’atterrissage ne pourrait pas se faire.
+A quick weather check during the day isn’t particularly reassuring. Although the conditions are suitable for VFR, they are far from ideal. There are plenty of rain showers and strong wind gusts expected upon arrival.
+I decide to go ahead with the flight anyway, and I plan a few diversion airports in case landing at my destination becomes impossible.
 
-Les conditions météo au départ ne sont finalement pas trop mal, avec une couche nuageuse overcast au-delà du FL100. Le vent est soutenu mais constant et dans les limites démontrées de vent de travers pour le PA24.
+The weather conditions at departure are ultimately not too bad, with an overcast layer above FL100. The wind is strong but steady, and remains within the PA-24’s demonstrated crosswind limits.
 
-Roulage, décollage, RAS à ce niveau-là, je suis content d’être en l’air, cela acte enfin le départ de ce long voyage qui s’annonce riche en paysage survolé.
+Taxi, takeoff, no issues so far. I’m happy to be airborne. This finally marks the beginning of this long journey, which promises to bring plenty of beautiful scenery along the way.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_01/CONTENU/2.jpg)
 
-Au fil du vol, j’ai eu droit à quelques petites éclaircies lumineuse, mais très vite les conditions météorologiques se sont dégradées, comme prévu lors du briefing plus tôt dans la journée.
+As the flight progressed, I was treated to a few brief breaks in the clouds and some beautiful patches of sunlight. But the weather conditions quickly deteriorated, just as forecast during the briefing earlier in the day.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_01/CONTENU/3.jpg)
 
@@ -46,15 +46,15 @@ Au fil du vol, j’ai eu droit à quelques petites éclaircies lumineuse, mais t
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_01/CONTENU/5.jpg)
 
-Arrivant du 123°, j’ai intégré directement le circuit d’aérodrome en longue finale pour la piste 30. Côté vent, le METAR à l’arrivé parle de lui-même : 31020G29KT. Mais fort heureusement celui-ci est dans l’axe de piste. C’est donc avec ces conditions venteuses en tête que j’effectue ma finale et atterrissage en prenant une bonne marge sur ma vitesse pour éviter tout risque de décrochage proche du sol.
+"Arriving from the 123° heading, I joined the traffic pattern directly on a long final for Runway 30.
+As for the wind, the arrival METAR speaks for itself: 31020G29KT. Fortunately, the wind was almost directly down the runway.
+With those windy conditions in mind, I flew the final approach and landing with a good margin above my normal approach speed to reduce the risk of a stall close to the ground."
 
-J’ai connu meilleur atterrissage, mais ce n’était pas trop mal pour ces conditions !
-Je prends le temps de bien arrimer le Comanche au sol car ils annoncent encore beaucoup de vent ces prochains jours.
+I’ve had better landings, but it wasn’t too bad considering the conditions!
+I took the time to properly secure the Comanche on the ground, as the forecast calls for plenty of wind over the next few days.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_01/CONTENU/6.jpg)
 
-La 2e branche de ce voyage devrait m’emmener jusqu’à Thunder Bay, toujours en Ontario. Celui-ci se trouve de l’autre côté, à l’ouest du Lake Superior, navigation facile, et qui se fera principalement par cheminement, en longeant la côte nord du Lac.
-
+The second leg of this journey should take me to Thunder Bay, still in Ontario. It is located on the western side of Lake Superior. The navigation should be fairly straightforward and will mainly be done by pilotage, following the northern shoreline of the lake.
 
 See you next flight
-
