@@ -8,10 +8,11 @@ image: DPH_FLIGHT_07/HEADER/DPH_FLIGHT_07_HEADER.jpg
 published: true
 ---
 
+<br>
+
 ## NAVIGATION PREPARATION
 September 10th, 2026
 
-<br>
 
 For this seventh leg, I have 278 NM ahead of me. A relatively long flight, then. With no wind, it would take me 1 hour and 45 minutes to reach Grande Prairie, not including the arrival procedure.
 
