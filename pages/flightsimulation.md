@@ -1,14 +1,14 @@
 ---
 layout: page
-title: FLIGHT SIMULATOR
-permalink: /flightsimulator
+title: FLIGHT SIMULATION
+permalink: /flightsimulation
 description: >-
   A collection of virtual flights, long-distance journeys, and imagined stories built around flight simulation.
   These stories are entirely fictional and follow the life of a virtual pilot as he travels from one destination to another in Microsoft Flight Simulator. I try to take immersion and realism as far as possible, imagining everything that   could happen around a flight such as planning the navigation, managing fuel, finding somewhere to spend the night, heading into town for a meal, setting up camping gear, or simply taking the time to enjoy the place where I have just landed.
   All of this is, of course, part of the fiction. The goal is simply to bring these journeys to life and create a story around each flight.
 ---
 
-{% for post in site.categories.flightsimulator %}
+{% for post in site.categories.flightsimulation %}
   <article>
     <h2>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
