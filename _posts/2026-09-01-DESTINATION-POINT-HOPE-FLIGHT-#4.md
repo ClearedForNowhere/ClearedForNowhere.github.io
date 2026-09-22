@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #4"
-author: "Pierre IOZZOLI"
+author: "Cleared For Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_04/COVER/DPH_FLIGHT_04_COVER.jpg
@@ -51,5 +51,4 @@ La prochaine étape prévue sera La Ronge, sur les rives du lac du même nom. Un
 
 Les Rocky Mountains se rapprochent de plus en plus et j'ai vraiment hâte de pouvoir voler dans ce massif que j'affectionne particulièrement.
 
-See you next flight,
-Cleared For Nowhere!
+See you next flight
