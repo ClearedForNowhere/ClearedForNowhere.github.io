@@ -5,8 +5,8 @@ permalink: /contact
 ---
 
 
-Une question, une remarque, une envie de partager votre propre expérience de l’aviation ou de la simulation de vol ?
+Have a question, a comment, or want to share your own experience with aviation or flight simulation?
 
-N’hésitez pas à me contacter. Je serai heureux d’échanger avec vous autour de ces passions qui font Cleared For Nowhere.
+Feel free to get in touch. I’d be happy to chat with you about the passions that make Cleared For Nowhere what it is.
 
-Vous pouvez également me retrouver sur les réseaux sociaux via les liens présents dans le menu du site.
+You can also find me on social media through the links in the site menu.
