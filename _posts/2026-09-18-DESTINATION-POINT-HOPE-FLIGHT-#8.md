@@ -186,4 +186,3 @@ One last picture of my awesome Comanche before calling it a night. If I get the 
 Next stop: the town of Smithers, still in British Columbia.
 
 See you next flight
-<img width="801" height="9388" alt="image" src="https://github.com/user-attachments/assets/444f13c1-892a-4fb8-81f0-4063be90523b" />
