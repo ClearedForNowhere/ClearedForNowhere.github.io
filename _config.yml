@@ -14,6 +14,13 @@ title:		           "CLEARED FOR NOWHERE"
 description:	       "CLEARED FOR NOWHERE est un projet personnel autour de mes passions pour l’aviation, la simulation de vol et la photographie."
 author:              "CLEARED FOR NOWHERE"
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author: "CLEARED FOR NOWHERE"
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
