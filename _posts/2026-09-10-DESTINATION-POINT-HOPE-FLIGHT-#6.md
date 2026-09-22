@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #6"
-author: "Pierre IOZZOLI"
+author: "Cleared For Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_06/COVER/DPH_FLIGHT_06_COVER.jpg
@@ -54,5 +54,4 @@ je vous laisse profiter des photos que j'ai pu faire durant le trajet !
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_06/CONTENU/18.jpg)
 
-See you next flight,
-Cleared For Nowhere.
+See you next flight
