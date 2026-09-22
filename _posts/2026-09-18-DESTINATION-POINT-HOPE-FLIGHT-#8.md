@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #8"
-author: "Pierre IOZZOLI"
+author: "Cleared For Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_08/COVER/DPH_FLIGHT_08_COVER.png
@@ -187,5 +187,4 @@ Dernière photo de mon super Comanche avant de faire dodo. Si j'ai l'occasion, j
 
 Prochaine arrêt : La ville de Smithers, toujours en Colombie-Britannique.
 
-See you next flight,
-Cleared For Nowhere.
+See you next flight
