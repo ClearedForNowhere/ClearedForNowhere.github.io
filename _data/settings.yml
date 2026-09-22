@@ -7,14 +7,14 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'FLIGHT SIMULATOR',  url: 'flightsimulator'}
+- {name: 'FLIGHT SIMULATION',  url: 'flightsimulation'}
 - {name: 'ABOUT',              url: 'about'}
 - {name: 'CONTACT',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'instagram', link:  'https://www.instagram.com/pierre_iozzo'}
-- {icon: 'envelope', link:   'mailto:pierre.iozzoli@gmail.com'}
+- {icon: 'instagram', link:  'https://www.instagram.com/clearedfornowhere'}
+- {icon: 'envelope', link:   'mailto:yot3so@proton.me'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
