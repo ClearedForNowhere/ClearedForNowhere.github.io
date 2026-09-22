@@ -54,7 +54,6 @@ Before commiting to this airfield, I need to check whether it is actually modele
 One last thing to keep in mind is fuel, but that shouldn't be a problem. With the range I have, I can safely cover up to 480 nautical miles at 160 knots. The distance between Grande Prairie and the destination of my 9th flight, Smithers, is 320 nautical miles. So there's no need to refuel!
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/6.jpg)
-<span class="small-note"><em>© www.Finesse-Max.com</em></span>
 
 And finally, there's the question of accommodation. Although I imagine I could probably find a kind soul willing to let me stay for the few nights I'll be there, I brought all my camping gear with me. I'll be happy to finally put it to use for the first time on this journey.
 
@@ -70,7 +69,6 @@ the midday weather assessment is positive. Windy is forecasting clear skies thro
 The wind, however, is expected to be fairly strong at FL105, starting at 30 knots and gradually weakening throughout the flight, coming from the southwest. So, I'll have a headwind, which obviously won't help my groundspeed. But since the flight is relatively short, I'm not too worried about it:
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/8.jpg)
-<span class="small-note"><em>© Windy</em></span>
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/9.jpg)
 
@@ -98,8 +96,6 @@ The climb is relatively long, around 10 minutes. I use full throttle, with 26,6 
 In an effort to optimize the flight, I try to reduce my fuel consumption during the climb so I don't exceed my estimates. However, leaning the mixture makes the combustion hotter, which increases EGT (Exhaust Gas Temperature) and, with a little delay, cylinder head temperature (CHT).
 Fortunately, the Comanche is equipped with an engine monitor, the JPI EDM 830, which allowed me to quickly detect the issue on cylinder #5. Its CHT briefly exceeded the manufacturer's limits. Enriching the mixture brought the CHT back to acceptable values almost immediately.
 The PA24-250 is powered by a Lycoming O-540, a six-cylinder, air-cooled, 250 hp horizontally opposed engine. Cylinder #5 and #6 are the furthest away from the aircraft's air inlet. Naturally, these are the cylinders that tend to run the hottest.
-
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/135.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/14.jpg)
 
