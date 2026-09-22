@@ -8,6 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'FLIGHT SIMULATION',  url: 'flightsimulation'}
+- {name: 'PHOTOGRAPHY',  url: 'photography'}
 - {name: 'ABOUT',              url: 'about'}
 - {name: 'CONTACT',            url: 'contact'}
 
