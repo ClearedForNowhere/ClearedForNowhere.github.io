@@ -24,10 +24,10 @@ A mon arrivée lors du dernier vol, je me suis garé à l'Apron 2, où j'ai pu a
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/2.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/4.jpg)
-<span class="small-note"><em>Photo issue de Google Maps</em></span>
+<span class="small-note"><em>© Google Maps</em></span>
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/45.jpg)
-<span class="small-note"><em>Photo issue de Google Maps</em></span>
+<span class="small-note"><em>© Google Maps</em></span>
 
 Je rattaque donc la suite de mon aventure avec comme prochaine étape, Prince George en Colombie-Britannique (qui tire son nom de la combinaison de la rivière Columbia et de l'appelation "britannique" choisie par la reine Victoria en 1858).
 Alors même que Point Hope se trouve plus à l'ouest et surtout bien plus au nord, j'ai fait le choix de rejoindre Prince George, qui elle se trouve au sud-ouest de ma position, et cela pour la simple et bonne raison que je pourrais profiter d'avantage des Rocheuses quand il faudra par la suite remonter vers le nord.
