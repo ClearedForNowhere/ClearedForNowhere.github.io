@@ -7,41 +7,41 @@ cover: DPH_THE_PROJECT/HEADER/DESTINATION_POINT_HOPE_HEADER.jpg
 image: DPH_THE_PROJECT/COVER/DESTINATION_POINT_HOPE_COVER.jpg
 published: true
 ---
-Et c'est reparti !
+And here we go again!
 
-Il ne m’aura pas fallu longtemps pour trouver un nouveau projet de voyage dans MSFS.
+It didn’t take me long to come up with a new travel project in MSFS.
 
-Ma prochaine destination sera l'un des points les plus à l'ouest du continent nord-américain : Point Hope, Alaska, aux États-Unis.
+My next destination will be one of the westernmost points on the North American continent: Point Hope, Alaska, USA.
 
-Cette destination se veut comme l’écho de ce projet - Cleared For Nowhere.
+This destination is meant to echo the spirit of the Cleared For Nowhere project.
 
-Pour l’atteindre, je devrai parcourir plus de 3 000 nautiques vers le nord-ouest, pour environ 20 heures de vol minimum, avec comme point de départ, l’aéroport d’Oshawa, quelques nautiques à l’est de Toronto. 
+To get there, I’ll have to travel more than 3,000 nautical miles northwest, for a minimum of around 20 hours of flight time, starting from Oshawa Airport, just a few nautical miles east of Toronto.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_THE_PROJECT/CONTENU/1.jpg)
 
-Je veux que ce projet soit une bonne occasion d'en apprendre davantage sur l'histoire du Canada et de l'Alaska.
+I want this project to be a great opportunity to learn more about the history of Canada and Alaska.
 
-Chaque étape que je volerai, chaque terrain sur lequel j'atterrirai devront être préparés et réfléchis.
-L'aérodrome est-il ouvert ? Y a-t-il du carburant disponible ? Puis-je y passer la nuit ?
+Every leg I fly, and every airfield I land at, will have to be carefully planned and thought through.
+Is the airfield open? Is fuel available? Can I spend the night there?
 
-Comme pour chaque voyage que j'organise comme celui-ci, je prendrai le temps d'étudier les cartes, de vérifier le terrain et les villes environnantes, la topographie du terrain que je survolerai ou encore les heures de levée/couchée du soleil.
+As with every trip I plan like this, I’ll take the time to study the charts, check the airfield and surrounding towns, look at the terrain I’ll be flying over, and even check sunrise and sunset times.
 
-Pour tout cela j'utiliserai des outils comme Navigraph Charts pour la préparation de la navigation, couplé à SkyVector.
-Pour consulter les conditions météorologiques, ça sera le site internet Windy, couplé à Navigraph Charts pour les METAR.
-Google Maps sera consulté pour regarder dans sa globalité les étapes ainsi que les lieux d'arrivé.
-Pour finir tout cela sera rapporté dans un log de nav au format Excel que j'ai construit au fil des années, en utilisant entre autre, mes compétences  acquises dans le réel. 
+For all of this, I’ll use tools such as Navigraph Charts for flight planning, combined with SkyVector.
+For weather conditions, I’ll use the Windy website, along with Navigraph Charts for METAR information.
+Google Maps will also be used to get a better overall view of each leg and the destinations themselves.
+Finally, everything will be recorded in an Excel navigation log that I’ve built and refined over the years, using, among other things, skills and experience I’ve gained from real-world aviation.
 
-Je volerai également chaque étape avec les conditions météorologiques réelles.
+I’ll also fly every leg using real-world weather conditions.
 
-Qu'est-ce que je ne simulerai pas ? La radio. Je n'ai pas encore les compétences nécessaires en phraséologie anglaise et je n'ai pas investi dans de bon addon de communication radio pour MSFS.
-En revanche, je vérifierai et utiliserai toutes les fréquences des aérodromes et des espaces aériens que je traverserai ou sur lesquels je me poserai.
+So, what won’t I be simulating? The radio. I don’t yet have the necessary skills in English radio phraseology, and I haven’t invested in a good radio communication add-on for MSFS.
+However, I will check and use all the frequencies for the airfields and airspace I’ll fly through or land at.
 
-Mon choix d’appareil s’est tourné vers le Piper PA24-250 Comanche d’A2A simulation, principalement pour son côté hardcore simmer et sa capacité à simuler avec beaucoup de réalisme sa motorisation, ses capacités aéro. J'apprécie particulièrement son système de persistance pour l'usure général de l'avion, sa consommation d'huile et d'essence.
+For the aircraft, I chose the Piper PA-24-250 Comanche from A2A Simulations, mainly because of its appeal to the hardcore simmer in me and its ability to simulate the engine and aircraft performance in great detail. I particularly like its persistence system, which simulates general aircraft wear and tear, as well as oil and fuel consumption.
 
-je ne peux plus m'en passer !
+I just can’t fly without it anymore!
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_THE_PROJECT/CONTENU/2.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_THE_PROJECT/CONTENU/3.jpg)
 
-Alors, c’est parti, direction Point Hope !
+So, here we go, Point Hope, here I come!
