@@ -157,7 +157,15 @@ Dernier virage pour la finale 25.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/30.jpg)
 
-Le Comanche est parqué. Je peux déballer les affaires de camping.
+Le Comanche est parqué. Je peux déballer les affaires de camping. Le terrain est très calme, Prince George n'est pas très loin, mais il faudra obligatoirement prendre la voiture pour rejoindre le centre-ville, accessible via une gravel road.
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/305.jpg)
+<span class="small-note"><em>© Google Maps</em></span>
+
+Une carcasse de Cessna 172 (je crois) vieillit tranquillement en bord de piste. 
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/3005.jpg)
+<span class="small-note"><em>© Google Maps</em></span>
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/31.jpg)
 
@@ -172,6 +180,8 @@ Couché de soleil sur le terrain, je profite de mon premier atterrissage en Colo
 J'ai passé les 2000 NM de distance parcourue et bientôt 16 heures de vol cumulées. Il me reste environ 1900 NM à parcourir, j'ai donc fait la moitié ! J'ai hâte de poursuivre cette aventure, les paysages devraient être tout autant magnifiques et il me tarde de pouvoir les survoler.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/34.jpg)
+
+Dernière photo de mon super Comanche avant de faire dodo. Si j'ai l'occasion, je ferai un peu de stop demain pour rejoindre le centre-ville, j'ai repéré deux trois BBQ qui ont l'air pas trop mal !
 
 Prochaine arrêt : La ville de Smithers, toujours en Colombie-Britannique.
 
