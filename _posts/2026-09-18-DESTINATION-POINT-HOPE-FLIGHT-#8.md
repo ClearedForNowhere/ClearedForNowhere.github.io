@@ -55,6 +55,7 @@ Avant de me fixer sur ce terrain, je dois voir d'une part si celui-ci est modél
 Dernier point à garder en tête, le carburant, mais ça ne devrait pas être un problème, car avec l'autonomie que j'ai, je peux effectuer en sécurité, jusqu'à 480 nautiques à 160 kts. Aussi, la distance à parcourir entre Grande Prairie et la destiniation de ma 9e navigation (Smithers) sera de 320 nautiques. Pas besoin de faire le plein donc !
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/6.jpg)
+<span class="small-note"><em>© www.Finesse-Max.com</em></span>
 
 Et pour finir, la question du logement se pose aussi, et, même si j'imagine pouvoir trouver une âme charitable qui veuille bien m'accueillir pour les quelques nuits que je devrais passer sur place, j'avais emporté avec moi tout mon matériel de camping. Je serai heureux de pouvoir l'utiliser pour la première fois dans ce voyage.
 
