@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #7"
-author: "Pierre IOZZOLI"
+author: "Cleared For Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_07/COVER/DPH_FLIGHT_07_COVER.jpg
@@ -157,5 +157,4 @@ L’heure block d’arrivée est notée. 2 heures 13 minutes de vol.
 
 Prochaine étape : Prince George. Celle-ci, je l’attends avec impatience, car elle marque le passage dans une nouvelle province Canadienne, la Colombie Britannique. Mais surtout, je rejoindrai et traverserai une partie des Rocky Mountains, incroyable massif montagneux qui s’étend du nord du Canada jusqu’à au sud des USA, non-loin de la frontière avec le Mexique.
 
-See you next flight,
-ClearedForNowhere.
+See you next flight
