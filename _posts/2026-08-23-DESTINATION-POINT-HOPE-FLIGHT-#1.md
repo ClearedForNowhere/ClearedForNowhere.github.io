@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #1"
-author: "Pierre IOZZOLI"
+author: "Cleared For Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_01/COVER/DPH_FLIGHT_01_COVER.jpg
@@ -57,6 +57,5 @@ Je prends le temps de bien arrimer le Comanche au sol car ils annoncent encore b
 La 2e branche de ce voyage devrait m’emmener jusqu’à Thunder Bay, toujours en Ontario. Celui-ci se trouve de l’autre côté, à l’ouest du Lake Superior, navigation facile, et qui se fera principalement par cheminement, en longeant la côte nord du Lac.
 
 
-See you next flight,
-ClearedForNowhere.
+See you next flight
 
