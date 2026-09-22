@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #3"
-author: "Pierre IOZZOLI"
+author: "Cleared For Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_03/COVER/DPH_FLIGHT_03_COVER.jpg
@@ -34,6 +34,5 @@ J'ai laissé le Comanche stationné à Red Lake, sur cet aérodrome entouré de 
 
 La prochaine étape sera plus longue, puisque je prévois de parcourir 377 NM jusqu'à Flin Flon, au Manitoba.
 
-See you next flight,
-Cleared For Nowhere.
+See you next flight
 
