@@ -132,3 +132,24 @@
     background-color: #f1f1f1;
   }
 }
+@media (max-width: $container-width) {
+  .site-title a {
+    font-size: 32px;
+  }
+
+  .site-title-logo {
+    height: 36px;
+    margin-right: 8px;
+  }
+}
+
+@media (max-width: $phone-width) {
+  .site-title a {
+    font-size: 24px;
+  }
+
+  .site-title-logo {
+    height: 28px;
+    margin-right: 6px;
+  }
+}
