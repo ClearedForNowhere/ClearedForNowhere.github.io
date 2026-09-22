@@ -153,3 +153,23 @@
     margin-right: 6px;
   }
 }
+.site-title-logo {
+  height: 50px !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 12px 0 0 !important;
+}
+
+@media (max-width: $container-width) {
+  .site-title-logo {
+    height: 36px !important;
+    width: auto !important;
+  }
+}
+
+@media (max-width: $phone-width) {
+  .site-title-logo {
+    height: 24px !important;
+    width: auto !important;
+  }
+}
