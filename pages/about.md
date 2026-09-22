@@ -4,10 +4,10 @@ title: ABOUT
 permalink: /about
 ---
 
-Cleared For Nowhere est un projet personnel autour de mes passions pour l’aviation, la simulation de vol et la photographie.
+**Cleared For Nowhere** is a personal project built around my passions for aviation, flight simulation, and photography.
 
-Passionné d’aviation depuis toujours, je pratique la simulation de vol depuis 2004. Au fil des années, elle est devenue bien plus qu’un simple moyen de voler d’un aéroport à un autre. J’aime préparer mes vols, étudier les cartes, la météo et les procédures, et partir à la découverte de régions et de lieux que je n’aurais peut-être jamais l’occasion de visiter autrement.
+I’ve been passionate about aviation for as long as I can remember, and I’ve been into flight simulation since 2004. Over the years, it has become much more than simply a way to fly from one airport to another. I enjoy planning my flights, studying charts, weather, and procedures, and discovering regions and places that I might never have the chance to visit otherwise.
 
-À travers ce site, je partage mes différents voyages virtuels, mes expériences de simulation, mais aussi des photographies et d’autres projets inspirés par ma passion pour le monde aéronautique.
+Through this website, I share my various virtual journeys, my flight simulation experiences, as well as photography and other projects inspired by my passion for the world of aviation.
 
-Cleared For Nowhere.
+**Cleared For Nowhere.**
