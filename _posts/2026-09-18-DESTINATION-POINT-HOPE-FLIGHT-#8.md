@@ -70,6 +70,7 @@ le 19 septembre 2026
 Le bilan météo de la mi-journée est positif, les prévisions de Windy annoncent un ciel dégagé tout au long du trajet, du moins aucune couverture nuageuse au FL105 ou en dessous. Pas de précipitions non plus.
 Le vent quant à lui devrait être assez soutenue au FL105, avec 30 kts au départ, faiblissant au fil du vol avec une provenance du sud-ouest. C'est donc un vent de face que j'aurais, qui n'avantage pas ma vitesse sol, mais le vol étant relativement court, ça ne m'embête pas plus que ça :
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/8.jpg)
+<span class="small-note"><em>© Windy</em></span>
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/9.jpg)
 
