@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, THE PROJECT"
-author: {{ site.author }}
 categories: flightsimulator
 tags: [destination-point-hope-the-project]
 cover: DPH_THE_PROJECT/HEADER/DESTINATION_POINT_HOPE_HEADER.jpg
