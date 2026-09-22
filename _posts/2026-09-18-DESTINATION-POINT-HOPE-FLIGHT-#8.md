@@ -68,6 +68,7 @@ le 19 septembre 2026
 
 Le bilan météo de la mi-journée est positif, les prévisions de Windy annoncent un ciel dégagé tout au long du trajet, du moins aucune couverture nuageuse au FL105 ou en dessous. Pas de précipitions non plus.
 Le vent quant à lui devrait être assez soutenue au FL105, avec 30 kts au départ, faiblissant au fil du vol avec une provenance du sud-ouest. C'est donc un vent de face que j'aurais, qui n'avantage pas ma vitesse sol, mais le vol étant relativement court, ça ne m'embête pas plus que ça :
+
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/8.jpg)
 <span class="small-note"><em>© Windy</em></span>
 
@@ -88,9 +89,11 @@ Roulage, essais moteur, briefing et déjà je m'aligne piste 25. Décollage vent
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/TAKEOFF.gif)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/12.jpg)
+
 Durant toute la première partie du vol je garderai visuel sur la Wapiti River, jusqu'à mon WP2 le Wapiti Lake, comme expliqué ci-dessus.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/13.jpg)
+
 La montée est relativement longue, 10 minutes environ. J'affiche plein gaz côté pression d'admission, soit 26.6 inHg au sol pour finir à 19.9 inHG en croisière à 10500 ft (plein gaz). Le régime est calé à 2400 tr/min, ce qui me donne environ 60% de puissance pour une consommation de 15 GAL/H.
 Dans un soucis d'optimisation, je tente de réduire ma consommation en montée pour ne pas emplafonner mes prévisions. Mais en appauvrissant le mélange, la combustion devient plus chaude, ce qui à pour conséquence d'augmenter la température d'EGT (Engine Gas Temperature) puis, avec un peu d'inertie, la température de cylindre (CHT).
 Heureusement que le Comanche est équipé d'un Engine Monitor (JPI EDM 830) qui m'a permis de détecter rapidement ce phénomène au niveau du cylindre 5, dont la CHT a dépassé sur un court instant les limites constructeurs. L'enrichissement du mélange à permis quasi instantanément de retrouver des valeurs de CHT convenable.
