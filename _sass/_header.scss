@@ -24,15 +24,17 @@
   text-decoration: none;
 }
 .site-title {
+  margin: 0;
+  padding-left: 10px;
+}
+.site-title a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
   font-size: 46px;
   font-weight: 1000;
   line-height: 1.1;
-  margin: 0;
-  padding-left: 10px;
-  display: flex;
-  align-items: center;
 }
-
 .site-title-logo {
   height: 50px;
   width: auto;
