@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: '##FLIGHT SIMULATOR',  url: 'flightsimulator'}
+- {name: 'FLIGHT SIMULATOR',  url: 'flightsimulator'}
 - {name: 'ABOUT',              url: 'about'}
 - {name: 'CONTACT',            url: 'contact'}
 
