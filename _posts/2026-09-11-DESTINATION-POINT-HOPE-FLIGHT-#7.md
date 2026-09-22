@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #7"
-author: "Cleared For Nowhere"
+author: {{ site.author }}
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_07/COVER/DPH_FLIGHT_07_COVER.jpg
