@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #2"
-author: "Pierre IOZZOLI"
+author: "Cleared for Nowhere"
 categories: flightsimulator
 tags: [destination-point-hope]
 cover: DPH_FLIGHT_02/COVER/DPH_FLIGHT_02_COVER.jpg
@@ -44,5 +44,4 @@ La deuxième tentative s'est encore moins bien passée : deux avions se trouvaie
 
 Prochaine étape : Red Lake, Ontario !
 
-See you next flight,
-Cleared For Nowhere.
+See you next flight
