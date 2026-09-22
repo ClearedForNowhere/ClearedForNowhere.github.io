@@ -16,14 +16,17 @@ le 18 septembre 2026
 J'entame aujourd'hui la préparation de la 8e étape vers Point Hope. Comme écrit dans mes anciens posts, j'attendais ce moment depuis longtemps car je vais enfin pouvoir rejoindre et survoler les Rocky Mountains. 
 Je suis actuellement à Grande Prairie, en Alberta. Et j'ai choisi comme destination Prince George, en Colombie-Britannique. Je traverserai la frontière entre ces deux provinces durant ce vol. 
 
-Pour situer un petit peu, et parce que je n'en ai pas forcément parlé dans mon ancien post, Grande Prairie est une ville relativement grande. Je peux lire sur Wikipédia que c'est le plus grand centre économique de la région. Elle est située à 456 kilomètres au nord-ouest d'Edmonton, capitale de la province de l'Alberta.
-Pour en revenir à Grande Prairie, c'est une ville qui vit, entre autre, de l'exploitation des forêts ainsi que des gisements de gaz et de pétrole. Son aérodrome est aussi un aéroport avec la présence d'un terminal pour les arrivées et départs vers les quelques aéroports régionaux comme Edmonton ou Calgary. Il y a aussi une activité d'aviation d'affaire, en plus d'une aviation générale développée sur le terrain.
+Pour situer un petit peu, et parce que je n'en ai pas forcément parlé avant, Grande Prairie est une ville relativement grande. Je peux lire sur Wikipédia que c'est le plus grand centre économique de la région. Elle est située à 456 kilomètres au nord-ouest d'Edmonton, capitale de la province de l'Alberta.
+C'est une ville qui vit, entre autre, de l'exploitation des forêts ainsi que des gisements de gaz et de pétrole. Son aérodrome est aussi un aéroport avec la présence d'un terminal pour les arrivées et départs vers les quelques aéroports régionaux comme Edmonton ou Calgary. Il y a aussi une activité d'aviation d'affaire, en plus d'une aviation générale développée sur le terrain.
 
-A mon arrivée lors du dernier vol, je me suis garé à l'Apron 2, où j'ai pu arrimer mon Comanche pour le temps passé sur place.
+A mon arrivée lors du dernier vol, je me suis garé à l'Apron 2, où j'ai pu arrimer mon Comanche pour le temps passé sur place. Je me parqué tout proche de l'entreprise Happy Gas ou j'ai pu prendre un petit café dans leur Pilot Lounge avant de rejoindre le centre-ville en taxi. 
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/2.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/4.jpg)
+<span class="small-note"><em>Photo issue de Google Maps</em></span>
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/45.jpg)
 <span class="small-note"><em>Photo issue de Google Maps</em></span>
 
 Je rattaque donc la suite de mon aventure avec comme prochaine étape, Prince George en Colombie-Britannique (qui tire son nom de la combinaison de la rivière Columbia et de l'appelation "britannique" choisie par la reine Victoria en 1858).
@@ -39,9 +42,10 @@ En regardant les altitudes topographiques du terrain, et en prenant un "corridor
 De 0° à 179°, je dois choisir un niveau impair +500 ft. De 180° à 359° je dois choisir un niveau pair + 500 ft.
 
 Ma navigation se fera intégralement entre 180° et 359°, je dois donc choisir un niveau de vol pair + 500 ft. En reprenant la topographie + hauteur mini de survol + règle semi-circulaire, mon altitude de croisière choisi sera 10500 ft.
-Il faudra donc que je prévois l'utilisation d'un système d'appoint personnel d'oxygène car mon vol durera plus de 30 minutes, et le PA24-250 n'est pas pressurisé.
+Il faudra donc que je prévois l'utilisation d'un système d'appoint personnel d'oxygène car mon vol durera plus de 30 minutes, et le PA24-250 n'est pas pressurisé. Et heureusement, j'en avais loué un juste avant mon départ.
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_08/CONTENU/5.jpg)
+<span class="small-note"><em>© www.Finesse-Max.com</em></span>
 
 Pour ce qui est de la machine, je ne doute pas des performances du moteur pour maintenir cette altitute.
 
