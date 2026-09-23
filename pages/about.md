@@ -10,4 +10,6 @@ I’ve been passionate about aviation for as long as I can remember, and I’ve 
 
 Through this website, I share my various virtual journeys, my flight simulation experiences, as well as photography and other projects inspired by my passion for the world of aviation.
 
+![about]({{ site.github.url }}/assets/img/LOGO/LOGO_CFN_800.jpg)
+
 **Cleared For Nowhere.**
