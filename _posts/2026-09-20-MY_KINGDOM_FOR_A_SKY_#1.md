@@ -5,7 +5,7 @@ categories: photography
 tags: [MKFAS]
 cover: MY_KINGDOM_FOR_A_SKY_01/COVER/MKFAS_01_COVER.jpg
 image:
-published: false
+published: true
 ---
 
 My Kingdom For A Sky #1 is the first series in a collection of photographs built around three things I’ve been passionate about for a long time: the sky, aviation, and photography.
