@@ -119,6 +119,7 @@
   .dropdown {
     position: relative;
     display: inline-block;
+    flex-shrink: 0;
   }
 
   .dropdown-content {
@@ -154,14 +155,27 @@
 }
 
 @media (max-width: $phone-width) {
+  .site-title {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
   .site-title a {
-    font-size: 28px;
+    font-size: 26px;
+    line-height: 1.05;
+    min-width: 0;
   }
 
   .site-title-logo {
-    height: 36px !important;
+    height: 34px !important;
     width: auto !important;
     max-width: none !important;
     margin-right: 8px !important;
+    flex-shrink: 0;
+  }
+
+  .site-title-text {
+    max-width: 175px;
+    min-width: 0;
   }
 }
