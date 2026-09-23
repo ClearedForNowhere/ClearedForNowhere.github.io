@@ -46,9 +46,9 @@ As the flight progressed, I was treated to a few brief breaks in the clouds and 
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_01/CONTENU/5.jpg)
 
-"Arriving from the 123° heading, I joined the traffic pattern directly on a long final for Runway 30.
+Arriving from the 123° heading, I joined the traffic pattern directly on a long final for Runway 30.
 As for the wind, the arrival METAR speaks for itself: 31020G29KT. Fortunately, the wind was almost directly down the runway.
-With those windy conditions in mind, I flew the final approach and landing with a good margin above my normal approach speed to reduce the risk of a stall close to the ground."
+With those windy conditions in mind, I flew the final approach and landing with a good margin above my normal approach speed to reduce the risk of a stall close to the ground.
 
 I’ve had better landings, but it wasn’t too bad considering the conditions!
 I took the time to properly secure the Comanche on the ground, as the forecast calls for plenty of wind over the next few days.
