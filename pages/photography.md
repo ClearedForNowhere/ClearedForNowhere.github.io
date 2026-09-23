@@ -2,8 +2,8 @@
 layout: page
 title: PHOTOGRAPHY
 permalink: /photography
-description : Une collection de photographies autour de l’aviation, du ciel, de mes voyages et des petits instants du quotidien.
-published: false
+description : A collection of photographs inspired by aviation, the sky, my travels, and the little moments of everyday life.
+published: true
 ---
 
 {% for post in site.categories.photography %}
