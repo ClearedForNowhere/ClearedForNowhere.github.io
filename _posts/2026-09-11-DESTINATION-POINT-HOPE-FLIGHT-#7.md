@@ -22,13 +22,13 @@ I start preparing this new leg by selecting a few waypoints that should be easy 
 
 For my part, I use TCRAMET:
 
-T: Top: This is my “stopwatch check,” allowing me to see whether my estimated flight time for each leg is accurate or not. I can adjust my estimates if necessary during the flight.
-C: Cap / Compass: An aircraft’s directional gyro gradually drifts by a few degrees over time, sometimes several degrees per hour. If I use it as a navigation aid, it needs to be reset regularly. To do this, I compare it with my magnetic compass, which will always indicate magnetic north. I therefore reset the directional gyro every time I pass a waypoint.
-R: Radio: I review the next frequencies to tune and the next ATC units I may need to contact.
-A: Altitude: I check my altitude and reset the altimeter using the QNH for my current position, if it is available.
-M: Engine (Moteur): I check my engine parameters, as well as the various temperatures (oil, coolant) and pressures (oil, fuel).
-E: Estimate / Fuel: I check the amount of fuel remaining in the tanks. Based on that, I calculate my fuel consumption since the beginning of the flight and compare it with the remaining quantity to make sure my consumption calculations were correct. I also check that the amount of fuel remaining is compatible with the remaining flight time to destination. If the aircraft allows it, I can switch tanks to optimize the position of the center of gravity.
-T: Temperature: I check the outside air temperature and engine temperature to assess the potential risk of carburetor icing. If there is any doubt, I apply carburetor heat.
+- T: Top: This is my “stopwatch check,” allowing me to see whether my estimated flight time for each leg is accurate or not. I can adjust my estimates if necessary during the flight.
+- C: Cap / Compass: An aircraft’s directional gyro gradually drifts by a few degrees over time, sometimes several degrees per hour. If I use it as a navigation aid, it needs to be reset regularly. To do this, I compare it with my magnetic compass, which will always indicate magnetic north. I therefore reset the directional gyro every time I pass a waypoint.
+- R: Radio: I review the next frequencies to tune and the next ATC units I may need to contact.
+- A: Altitude: I check my altitude and reset the altimeter using the QNH for my current position, if it is available.
+- M: Engine (Moteur): I check my engine parameters, as well as the various temperatures (oil, coolant) and pressures (oil, fuel).
+- E: Estimate / Fuel: I check the amount of fuel remaining in the tanks. Based on that, I calculate my fuel consumption since the beginning of the flight and compare it with the remaining quantity to make sure my consumption calculations were correct. I also check that the amount of fuel remaining is compatible with the remaining flight time to destination. If the aircraft allows it, I can switch tanks to optimize the position of the center of gravity.
+- T: Temperature: I check the outside air temperature and engine temperature to assess the potential risk of carburetor icing. If there is any doubt, I apply carburetor heat.
 
 Every time I pass a reference point or waypoint, I run through everything listed above. This gives me a regular check of the main parameters that need to be monitored or displayed during navigation.
 
