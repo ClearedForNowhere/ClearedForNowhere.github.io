@@ -1,10 +1,10 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'millennial-3'
+  comments: true
+  disqus_shortname: 'https-clearedfornowhere-github-io'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: 'G-0GF632JQ7N'
 
 menu:
 - {name: 'FLIGHT SIMULATION',  url: 'flightsimulation'}
