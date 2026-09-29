@@ -3,8 +3,8 @@ layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #9"
 categories: flightsimulation
 tags: [destination-point-hope]
-cover: DPH_FLIGHT_09/COVER/DPH_FLIGHT_09_COVER.png
-image: DPH_FLIGHT_09/HEADER/DPH_FLIGHT_09_HEADER.jpg
+cover: DPH_FLIGHT_09/COVER/DPH_FLIGHT_09_COVER.jpg
+image: 
 published: true
 ---
 
