@@ -2,7 +2,9 @@
 layout: page
 title: DESTINATION POINT HOPE
 permalink: /destinationpointhope
-description: >-
+description:
+---
+
   **Destination Point Hope** is a long-distance journey across Canada and Alaska, flown entirely in Microsoft Flight Simulator 2024.
 
   Starting from Oshawa, Ontario, I’m taking my A2A Comanche north and west, following a route of more than 3,000 nautical miles toward Point Hope, Alaska.
@@ -13,5 +15,3 @@ description: >-
 
   **The destination? Point Hope.
   The journey? That’s the real story.**
-
----
