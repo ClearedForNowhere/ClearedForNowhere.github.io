@@ -52,5 +52,6 @@ As for the wind, it will be from the west at an average of 15 knots at 6,500 ft,
 ## THE FLIGHT
 September 29, 2026
 
+In progress
 
 
