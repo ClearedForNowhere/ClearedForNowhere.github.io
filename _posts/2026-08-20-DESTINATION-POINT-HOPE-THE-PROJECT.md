@@ -17,8 +17,6 @@ This destination is meant to echo the spirit of the Cleared For Nowhere project.
 
 To get there, I’ll have to travel more than 3,000 nautical miles northwest, for a minimum of around 20 hours of flight time, starting from Oshawa Airport, just a few nautical miles east of Toronto.
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_THE_PROJECT/CONTENU/1.jpg)
-
 I want this project to be a great opportunity to learn more about the history of Canada and Alaska.
 
 Every leg I fly, and every airfield I land at, will have to be carefully planned and thought through.
