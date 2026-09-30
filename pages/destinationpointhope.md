@@ -13,4 +13,20 @@ description: >-
   Along the way, I’ll share the landscapes, airfields, challenges and unexpected moments that make this journey feel like a real adventure.
 ---
 
+{% for post in site.tags.destination-point-hope %}
+  <article>
+    <h2>
+      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
 
+    <span class="post-date">
+      {{ post.date | date: "%B %-d, %Y" }}
+    </span>
+
+    {% if post.cover %}
+      <a href="{{ site.github.url }}{{ post.url }}">
+        <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
+      </a>
+    {% endif %}
+  </article>
+{% endfor %}
