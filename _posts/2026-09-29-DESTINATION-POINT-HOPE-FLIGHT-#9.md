@@ -52,6 +52,48 @@ As for the wind, it will be from the west at an average of 15 knots at 6,500 ft,
 ## THE FLIGHT
 September 29, 2026
 
-In progress
+In progress, text is coming soon.
 
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/ENGINE_START.gif)
 
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/6.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/7.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/INFLIGHT_01.gif)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/INFLIGHT_02.gif)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/8.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/9.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/10.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/11.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/INFLIGHT_04.gif)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/12.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/13.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/INFLIGHT_03.gif)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/14.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/15.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/16.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/17.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/18.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/19.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/20.jpg)
+
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_FLIGHT_09/CONTENU/21.jpg)
+
+Cleared For Nowhere.
