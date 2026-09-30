@@ -2,7 +2,7 @@
 layout: page
 title: DESTINATION POINT HOPE
 categories: flightsimulation
-permalink: /destinationpointhope
+permalink: /destinationpointhope/
 description: >-
   Destination Point Hope is a long-distance journey across Canada and Alaska, flown entirely in Microsoft Flight Simulator 2024.
 
