@@ -8,20 +8,38 @@ description: >-
   All of this is, of course, part of the fiction. The goal is simply to bring these journeys to life and create a story around each flight.
 ---
 
+<article>
+  <h2>
+    <a href="{{ site.github.url }}/destinationpointhope">
+      DESTINATION POINT HOPE
+    </a>
+  </h2>
+
+  <p>
+    A long-distance journey across Canada and Alaska, flown entirely in Microsoft Flight Simulator 2024.
+  </p>
+
+  <a href="{{ site.github.url }}/destinationpointhope">
+    <img src="{{ site.github.url }}/assets/img/DPH_THE_PROJECT/COVER/DESTINATION_POINT_HOPE_COVER.jpg" alt="DESTINATION POINT HOPE">
+  </a>
+</article>
+
 {% for post in site.categories.flightsimulation %}
-  <article>
-    <h2>
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
+{% unless post.tags contains "destination-point-hope" %} <article> <h2> <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a> </h2>
 
-    <span class="post-date">
-      {{ post.date | date: "%B %-d, %Y" }}
-    </span>
+```
+  <span class="post-date">
+    {{ post.date | date: "%B %-d, %Y" }}
+  </span>
 
-    {% if post.cover %}
-<a href="{{ site.github.url }}{{ post.url }}">
-  <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
-</a>
-    {% endif %}
-  </article>
+  {% if post.cover %}
+    <a href="{{ site.github.url }}/assets/img/{{ post.cover }}">
+      <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
+    </a>
+  {% endif %}
+</article>
+```
+
+{% endunless %}
 {% endfor %}
+------------
