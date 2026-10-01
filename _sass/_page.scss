@@ -3,13 +3,16 @@
   display: block;
   margin: 10px auto 10px;
   padding: 0px 10px 10px;
-  text-align: center;
 }
 
 .page-content > h1 {
   text-align: center;
 }
 
-.page-content > article {
+.page-description {
   text-align: center;
+}
+
+.page-content > article {
+  text-align: left;
 }
