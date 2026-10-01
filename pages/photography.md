@@ -32,21 +32,25 @@ published: true
 </article>
 
 {% for post in site.categories.photography %}
-  {% unless post.tags contains "MKFAS" or post.tags contains "S&A" %}
-    <article>
-      <h2>
-        <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-      </h2>
+  {% unless post.tags contains "MKFAS" %}
+    {% unless post.tags contains "S&A" %}
+      <article>
+        <h2>
+          <a href="{{ site.github.url }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h2>
 
-      <span class="post-date">
-        {{ post.date | date: "%B %-d, %Y" }}
-      </span>
+        <span class="post-date">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </span>
 
-      {% if post.cover %}
-        <a href="{{ site.github.url }}/assets/img/{{ post.cover }}">
-          <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
-        </a>
-      {% endif %}
-    </article>
+        {% if post.cover %}
+          <a href="{{ site.github.url }}/assets/img/{{ post.cover }}">
+            <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
+          </a>
+        {% endif %}
+      </article>
+    {% endunless %}
   {% endunless %}
 {% endfor %}
