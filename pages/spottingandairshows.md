@@ -1,14 +1,14 @@
 ---
 layout: page
 title: SPOTTING AND AIRSHOWS
-categories: S&A
+categories: spotting_and_airshows
 permalink: /spottingandairshows/
 
 description: >-
   A collection of photographs taken during aircraft spotting sessions and airshows, from everyday airport activity to special aviation events.
 ---
 
-{% for post in site.tags.S&A %}
+{% for post in site.tags.spotting_and_airshows %}
   <article>
     <h2>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
