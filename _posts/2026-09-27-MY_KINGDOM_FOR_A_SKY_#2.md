@@ -2,7 +2,7 @@
 layout: post
 title: "MY KINGDOM FOR A SKY #2"
 categories: photography
-tags: [MKFAS]
+tags: [my_kingdom_for_a_sky]
 cover: MY_KINGDOM_FOR_A_SKY_02/COVER/MKFAS_02_COVER.jpg
 image:
 published: true
