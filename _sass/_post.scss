@@ -102,6 +102,10 @@
 }
 @media (max-width: $tablet-width) {
   .related-thumbnail {
-    width: calc(95vw - 20px);
+    width: calc(85vw - 20px);
+  }
+
+  .related img {
+    width: calc(85vw - 20px);
   }
 }
