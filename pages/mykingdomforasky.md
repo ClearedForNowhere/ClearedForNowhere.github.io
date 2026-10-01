@@ -1,14 +1,14 @@
 ---
 layout: page
 title: MY KINGDOM FOR A SKY
-categories: my_kingdom_for_a_sky
+categories: MKFAS
 permalink: /mykingdomforasky/
 
 description: >-
   My Kingdom For A Sky is a series of photographs built around three things I’ve been passionate about for a long time: the sky, aviation, and photography. The idea is simply to share, throughout each series, the photos that catch my eye and that I feel like keeping: an aircraft in the sky, a particular kind of light, or sometimes just a snapshot of everyday life.
 ---
 
-{% for post in site.tags.my_kingdom_for_a_sky %}
+{% for post in site.tags.MKFAS %}
   <article>
     <h2>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
