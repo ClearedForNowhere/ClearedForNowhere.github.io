@@ -32,8 +32,8 @@ published: true
 </article>
 
 {% for post in site.categories.photography %}
-  {% unless post.tags contains "MKFAS" %}
-    {% unless post.tags contains "S&A" %}
+  {% unless post.tags contains "my_kingdom_for_a_sky" %}
+    {% unless post.tags contains "spotting_and_airshows" %}
       <article>
         <h2>
           <a href="{{ site.github.url }}{{ post.url }}">
