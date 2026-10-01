@@ -16,7 +16,7 @@ published: true
 
 
   <a href="{{ site.github.url }}/mykingdomforasky">
-    <img src="{{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_PAGE/COVER/1.jpg)" alt="DESTINATION POINT HOPE">
+    <img src="{{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_PAGE/COVER/1.jpg" alt="DESTINATION POINT HOPE">
   </a>
 </article>
 
