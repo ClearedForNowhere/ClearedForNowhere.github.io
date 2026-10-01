@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PHOTOGRAPHY
-permalink: /photography
+permalink: /photography/
 description : A collection of photographs inspired by aviation, the sky, my travels, and the little moments of everyday life.
 published: true
 ---
