@@ -2,7 +2,8 @@
 layout: page
 title: PHOTOGRAPHY
 permalink: /photography/
-description : A collection of photographs inspired by aviation, the sky, my travels, and the little moments of everyday life.
+description: >-
+  A collection of photographs inspired by aviation, the sky, my travels, and the little moments of everyday life.
 published: true
 ---
 
@@ -13,10 +14,8 @@ published: true
     </a>
   </h2>
 
-
-
   <a href="{{ site.github.url }}/mykingdomforasky">
-    <img src="{{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_PAGE/COVER/1.jpg" alt="DESTINATION POINT HOPE">
+    <img src="{{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_PAGE/COVER/1.jpg" alt="MY KINGDOM FOR A SKY">
   </a>
 </article>
 
