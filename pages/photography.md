@@ -19,7 +19,7 @@ The idea is simply to share, throughout each series, the photos that catch my ey
   </p>
 
   <a href="{{ site.github.url }}/mykingdomforasky">
-    <img src="{{ site.github.url }}/assets/img/DPH_THE_PROJECT/COVER/DESTINATION_POINT_HOPE_COVER.jpg" alt="DESTINATION POINT HOPE">
+    <img src="{{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_PAGE/COVER/1.jpg)" alt="DESTINATION POINT HOPE">
   </a>
 </article>
 
