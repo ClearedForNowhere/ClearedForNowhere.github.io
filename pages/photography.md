@@ -30,7 +30,7 @@ published: true
 
 <article> <h2> <a href="{{ site.github.url }}/spottingandairshows"> SPOTTING AND AIRSHOWS </a> </h2>
 
-<a href="{{ site.github.url }}/spottingandairshows"> <img src="{{ site.github.url }}/assets/img/MY_KINGDOM_FOR_A_SKY_PAGE/COVER/1.jpg" alt="SPOTTING AND AIRSHOWS"> </a> </article>
+<a href="{{ site.github.url }}/spottingandairshows"> <img src="{{ site.github.url }}/assets/img/SPOTTING_AND_AIRSHOWS_PAGE/COVER/1.jpg" alt="SPOTTING AND AIRSHOWS"> </a> </article>
 
 {% for post in site.categories.photography %}
 {% unless post.tags contains "S&A" %}
