@@ -4,23 +4,36 @@ title: DESTINATION POINT HOPE
 permalink: /destinationpointhope/
 description: >-
   A long-distance journey across Canada and Alaska, flown entirely in Microsoft Flight Simulator 2024.
+  This fictional journey follows a virtual pilot flying from Oshawa, Ontario, to Point Hope, Alaska, while trying to recreate as realistically as possible everything surrounding a real cross-country trip.
 published: true
 ---
 
-<h2>TEST</h2>
+<div class="page-grid">
 
-<p>Nombre de posts dans flightsimulation :</p>
+  {% for post in site.categories.flightsimulation reversed %}
 
-<p>{{ site.categories.flightsimulation | size }}</p>
+    {% if post.tags contains "DPH" %}
 
-<hr>
+      <article>
+        <h2>
+          <a href="{{ site.github.url }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h2>
 
-{% for post in site.posts %}
+        <span class="post-date">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </span>
 
-  <p>
-    <strong>{{ post.title }}</strong><br>
-    Category: {{ post.categories | join: ", " }}<br>
-    Tags: {{ post.tags | join: ", " }}
-  </p>
+        {% if post.cover %}
+          <a href="{{ site.github.url }}/assets/img/{{ post.cover }}">
+            <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
+          </a>
+        {% endif %}
+      </article>
 
-{% endfor %}
+    {% endif %}
+
+  {% endfor %}
+
+</div>
