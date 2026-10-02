@@ -5,14 +5,88 @@
   padding: 0px 10px 10px;
 }
 
+/*
+  Page title
+*/
+
 .page-content > h1 {
   text-align: center;
 }
 
+/*
+  Page description
+*/
+
 .page-description {
   text-align: center;
+  margin-bottom: 30px;
 }
+
+/*
+  Page content
+*/
 
 .page-content > article {
   text-align: left;
+}
+
+/*
+  Two-column grid
+*/
+
+.page-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px 20px;
+  width: 100%;
+}
+
+/*
+  Grid articles
+*/
+
+.page-grid article {
+  text-align: left;
+  margin: 0;
+}
+
+.page-grid article h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.page-grid article p {
+  text-align: left;
+}
+
+.page-grid article img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+/*
+  Tablet and mobile
+*/
+
+@media (max-width: $tablet-width) {
+  .page-content {
+    width: 95vw;
+    max-width: none;
+  }
+
+  .page-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .page-grid article {
+    width: 100%;
+  }
+
+  .page-grid article img {
+    width: 100%;
+  }
 }
