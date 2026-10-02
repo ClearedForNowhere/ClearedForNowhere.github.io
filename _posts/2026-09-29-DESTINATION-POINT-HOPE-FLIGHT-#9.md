@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #9"
-categories: destinationpointhope
+categories: flightsimulation
 tags: [DPH]
 cover: DPH_FLIGHT_09/COVER/DPH_FLIGHT_09_COVER.jpg
 image: 
