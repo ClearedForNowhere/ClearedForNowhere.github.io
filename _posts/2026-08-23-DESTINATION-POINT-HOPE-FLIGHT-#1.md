@@ -2,7 +2,7 @@
 layout: post
 title: "DESTINATION POINT HOPE, FLIGHT #1"
 categories: destinationpointhope
-tags: [destination-point-hope]
+tags: [DPH]
 cover: DPH_FLIGHT_01/COVER/DPH_FLIGHT_01_COVER.jpg
 image: DPH_FLIGHT_01/HEADER/DPH_FLIGHT_01_HEADER.jpg
 published: true
