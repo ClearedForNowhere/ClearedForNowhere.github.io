@@ -1,27 +1,38 @@
 ---
 layout: page
 title: MY KINGDOM FOR A SKY
-categories: MKFAS
 permalink: /mykingdomforasky/
-
 description: >-
-  My Kingdom For A Sky is a series of photographs built around three things I’ve been passionate about for a long time: the sky, aviation, and photography. The idea is simply to share, throughout each series, the photos that catch my eye and that I feel like keeping: an aircraft in the sky, a particular kind of light, or sometimes just a snapshot of everyday life.
+  A collection of photographs inspired by aviation, the sky, my travels, and the moments found between destinations.
+published: true
 ---
 
-{% for post in site.tags.MKFAS %}
-  <article>
-    <h2>
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
+<div class="page-grid">
 
-    <span class="post-date">
-      {{ post.date | date: "%B %-d, %Y" }}
-    </span>
+  {% for post in site.categories.photography %}
 
-    {% if post.cover %}
-      <a href="{{ site.github.url }}{{ post.url }}">
-        <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
-      </a>
+    {% if post.tags contains "MKFAS" %}
+
+      <article>
+        <h2>
+          <a href="{{ site.github.url }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h2>
+
+        <span class="post-date">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </span>
+
+        {% if post.cover %}
+          <a href="{{ site.github.url }}/assets/img/{{ post.cover }}">
+            <img src="{{ site.github.url }}/assets/img/{{ post.cover }}" alt="{{ post.title }}">
+          </a>
+        {% endif %}
+      </article>
+
     {% endif %}
-  </article>
-{% endfor %}
+
+  {% endfor %}
+
+</div>
