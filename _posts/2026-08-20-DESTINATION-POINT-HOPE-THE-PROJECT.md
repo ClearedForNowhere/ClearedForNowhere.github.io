@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DESTINATION POINT HOPE, THE PROJECT"
-categories: destinationpointhope
+categories: flightsimulation
 tags: [DPH]
 cover: DPH_THE_PROJECT/HEADER/DESTINATION_POINT_HOPE_HEADER.jpg
 image: DPH_THE_PROJECT/COVER/DESTINATION_POINT_HOPE_COVER.jpg
