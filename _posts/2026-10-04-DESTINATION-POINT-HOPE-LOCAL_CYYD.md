@@ -20,8 +20,6 @@ I'm keeping my fingers crossed for better weather over the next few days so I ca
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/2.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/3.jpg)
-
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/4.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/5.jpg)
@@ -43,6 +41,11 @@ I'm keeping my fingers crossed for better weather over the next few days so I ca
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/13.gif)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/14.mp4)
+
+<video controls style="width: 100%; height: auto;">
+  <source src="{{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/14.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 See you next flight,
 Cleared For Nowhere.
