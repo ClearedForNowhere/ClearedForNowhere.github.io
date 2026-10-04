@@ -42,12 +42,5 @@ Really, Really bad weather tonight !
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/13.gif)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/14.mp4)
-
-<video controls style="width: 100%; height: auto;">
-  <source src="{{ site.github.url }}/assets/img/DPH_LOCAL_01/CONTENU/14.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 See you next flight,
 Cleared For Nowhere.
