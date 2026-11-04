@@ -14,23 +14,23 @@ During the last leg initialy planned from Smithers (CYYD) to Dease Lake (CYDL), 
 
 Here after some screenshot of a short local flight to discover the landscape around the airfield. What a wonderful place on earth!
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/01.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/1.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/02.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/2.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/03.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/3.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/04.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/4.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/05.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/5.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/06.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/6.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/07.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/7.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/08.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/8.jpg)
 
-![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/09.jpg)
+![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/9.jpg)
 
 ![Destination Point Hope]({{ site.github.url }}/assets/img/DPH_LOCAL_02/CONTENU/10.jpg)
 
