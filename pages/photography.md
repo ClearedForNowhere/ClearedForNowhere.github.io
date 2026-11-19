@@ -33,6 +33,18 @@ published: true
     </a>
   </article>
 
+  <article>
+    <h2>
+      <a href="{{ site.github.url }}/myeveryday">
+        MY EVERYDAY
+      </a>
+    </h2>
+
+    <a href="{{ site.github.url }}/myeveryday">
+      <img src="{{ site.github.url }}/assets/img/SPOTTING_AND_AIRSHOWS_PAGE/COVER/1.jpg" alt="SPOTTING AND AIRSHOWS">
+    </a>
+  </article>
+  
   {% for post in site.categories.photography %}
 
     {% unless post.tags contains "MKFAS" %}
